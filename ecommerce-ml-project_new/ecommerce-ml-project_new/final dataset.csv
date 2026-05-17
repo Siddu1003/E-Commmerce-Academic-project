@@ -1,0 +1,999 @@
+Order_Date,Time,Aging,Customer_Id,Gender,Device_Type,Customer_Login_type,Product_Category,Product,Sales,Quantity,Discount,Profit,Shipping_Cost,Order_Priority,Payment_method
+02-01-2018,10:56:33,8,37077,Female,Web,Member,Auto & Accessories,Car Media Players,140,1,0.3,46,4.6,Medium,credit_card
+24-07-2018,20:41:37,2,59173,Female,Web,Member,Auto & Accessories,Car Speakers,211,1,0.3,112,11.2,Medium,credit_card
+08-11-2018,08:38:49,8,41066,Female,Web,Member,Auto & Accessories,Car Body Covers,117,5,0.1,31.2,3.1,Critical,credit_card
+18-04-2018,19:28:06,7,50741,Female,Web,Member,Auto & Accessories,Car & Bike Care,118,1,0.3,26.2,2.6,High,credit_card
+13-08-2018,21:18:39,9,53639,Female,Web,Member,Auto & Accessories,Tyre,250,1,0.3,160,16,Critical,credit_card
+09-07-2018,21:57:05,8,39783,Female,Web,Member,Auto & Accessories,Bike Tyres,72,1,0.3,24,2.4,Critical,credit_card
+16-05-2018,13:10:30,1,26767,Female,Web,Member,Auto & Accessories,Car Mat,54,1,0.3,54,5.4,High,credit_card
+23-06-2018,18:29:09,7,20719,Female,Web,Member,Auto & Accessories,Car Seat Covers,114,5,0.2,22.6,2.3,Critical,credit_card
+29-07-2018,11:55:02,7,46947,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231,5,0.3,116.4,11.6,Critical,credit_card
+16-05-2018,19:41:10,10,31839,Female,Web,Member,Auto & Accessories,Car Media Players,140,1,0.2,54.4,5.4,Critical,money_order
+13-07-2018,19:58:11,10,22249,Female,Web,Member,Auto & Accessories,Car Speakers,211,4,0.1,122.6,12.3,Critical,credit_card
+07-10-2018,10:06:19,1,15109,Female,Web,Member,Auto & Accessories,Car Body Covers,117,4,0.3,18.3,1.8,High,credit_card
+25-07-2018,17:44:10,7,18622,Female,Web,Member,Auto & Accessories,Car & Bike Care,118,1,0.2,35.6,3.6,Critical,credit_card
+01-12-2018,14:14:28,5,56296,Female,Web,Member,Auto & Accessories,Tyre,250,1,0.3,140,14,High,credit_card
+07-10-2018,19:03:12,9,34138,Female,Web,Member,Auto & Accessories,Bike Tyres,72,4,0.1,18,1.8,Medium,credit_card
+02-06-2018,19:00:43,10,51112,Female,Web,Member,Auto & Accessories,Car Mat,54,1,0.1,27,2.7,Critical,credit_card
+26-03-2018,23:41:31,4,57057,Female,Web,Member,Auto & Accessories,Car Seat Covers,114,1,0.3,22.6,2.3,High,credit_card
+21-04-2018,00:03:41,7,50942,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231,5,0.3,93.3,9.3,High,credit_card
+26-01-2018,15:54:26,7,42384,Female,Web,Member,Auto & Accessories,Car Media Players,140,1,0.3,46,4.6,Critical,credit_card
+18-02-2018,14:31:30,6,26127,Female,Web,Member,Auto & Accessories,Car Speakers,211,1,0.2,122.6,12.3,Critical,credit_card
+15-12-2018,08:52:40,4,14449,Female,Web,Member,Auto & Accessories,Car Body Covers,117,5,0.1,31.2,3.1,Critical,credit_card
+03-08-2018,20:37:35,7,16823,Female,Web,Member,Auto & Accessories,Car & Bike Care,118,1,0.3,30.9,3.1,High,credit_card
+08-06-2018,07:55:29,6,15976,Female,Web,Member,Auto & Accessories,Tyre,250,4,0.2,150,15,High,credit_card
+09-11-2018,11:44:40,2,51542,Female,Web,Member,Auto & Accessories,Bike Tyres,72,4,0.2,18,1.8,Critical,credit_card
+20-08-2018,23:46:53,8,42676,Female,Web,Member,Auto & Accessories,Car Mat,54,1,0.3,54,5.4,High,money_order
+04-10-2018,00:00:13,4,56593,Female,Web,Member,Auto & Accessories,Car Seat Covers,114,4,0.2,24.9,2.5,Critical,e_wallet
+12-12-2018,01:50:26,8,37689,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231,1,0.3,144.1,14.4,Critical,credit_card
+02-05-2018,11:45:38,,26058,Female,Web,Member,Auto & Accessories,Car Media Players,140,1,0.3,55.8,5.6,High,credit_card
+25-08-2018,13:50:30,7,38941,Female,Web,Member,Auto & Accessories,Car Speakers,211,1,0.3,112,11.2,Medium,credit_card
+10-11-2018,11:58:33,4,19919,Female,Web,Member,Auto & Accessories,Car Body Covers,117,1,0.2,34.7,3.5,High,money_order
+16-09-2018,21:15:39,9,56625,Female,Web,Member,Auto & Accessories,Car & Bike Care,118,1,0.3,27.4,2.7,Critical,credit_card
+12-03-2018,13:56:04,5,33501,Female,Web,Member,Auto & Accessories,Tyre,250,1,0.2,165,16.5,Medium,credit_card
+03-08-2018,12:38:58,10,40865,Female,Web,Member,Auto & Accessories,Bike Tyres,72,4,0.3,18,1.8,High,credit_card
+29-07-2018,23:34:51,5,38256,Female,Web,Member,Auto & Accessories,Car Mat,54,4,0.3,13.5,1.4,Critical,credit_card
+17-08-2018,15:59:46,1,14567,Female,Web,Member,Auto & Accessories,Car Seat Covers,114,4,0.1,29.4,2.9,High,credit_card
+21-08-2018,18:15:12,4,38178,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231,1,0.3,127.9,12.8,High,credit_card
+30-07-2018,21:37:10,6,24153,Female,Web,Member,Auto & Accessories,Car Media Players,140,5,0.3,32,3.2,Medium,credit_card
+01-10-2018,12:23:13,3,27385,Female,Web,Member,Auto & Accessories,Car Speakers,211,4,0.1,122.6,12.3,Critical,credit_card
+26-12-2018,17:12:18,2,44937,Female,Web,Member,Auto & Accessories,Car Body Covers,117,1,0.3,32.3,3.2,High,credit_card
+19-05-2018,18:53:40,6,38490,Female,Web,Member,Auto & Accessories,Car & Bike Care,118,5,0.3,14.4,1.4,Critical,money_order
+24-04-2018,21:27:48,4,30549,Female,Web,Member,Auto & Accessories,Tyre,250,5,0.3,132.5,13.3,Critical,credit_card
+04-11-2018,17:10:39,8,50606,Female,Web,Member,Auto & Accessories,Bike Tyres,72,5,0.2,14.4,1.4,Critical,credit_card
+04-11-2018,23:25:30,1,42084,Female,Web,Member,Auto & Accessories,Car Mat,54,5,0.1,10.8,1.1,High,money_order
+18-05-2018,13:55:47,5,52161,Female,Web,Member,Auto & Accessories,Car Seat Covers,114,4,0.3,15.8,1.6,Critical,credit_card
+14-05-2018,20:28:25,7,32218,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231,4,0.3,114,11.4,High,money_order
+17-05-2018,16:59:11,8,36491,Female,Web,Member,Auto & Accessories,Car Media Players,140,1,0.3,46,4.6,Critical,credit_card
+29-07-2018,11:24:17,6,12227,Female,Web,Member,Auto & Accessories,Car Speakers,211,1,0.1,128.9,12.9,Critical,credit_card
+09-11-2018,20:19:05,1,13196,Female,Web,Member,Auto & Accessories,Car Body Covers,117,4,0.3,13.6,1.4,Critical,credit_card
+01-08-2018,14:02:19,6,50444,Female,Web,Guest,Auto & Accessories,Car & Bike Care,118,5,0.3,14.4,1.4,Critical,credit_card
+26-10-2018,13:42:52,5,24528,Male,Web,Member,Auto & Accessories,Tyre,250,1,0.1,165,16.5,Medium,credit_card
+26-07-2018,14:39:59,3,57748,Male,Web,Member,Auto & Accessories,Bike Tyres,72,1,0.1,36,3.6,Critical,credit_card
+15-03-2018,00:06:10,6,46349,Male,Web,Member,Auto & Accessories,Car Mat,54,5,0.3,10.8,1.1,High,credit_card
+30-11-2018,08:15:24,4,54853,Male,Web,Member,Auto & Accessories,Car Seat Covers,114,4,0.3,11.2,1.1,High,credit_card
+11-10-2018,10:25:52,2,28082,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231,1,0.3,132.5,13.3,High,money_order
+11-10-2018,08:18:19,6,20444,Male,Web,Member,Auto & Accessories,Car Media Players,140,1,0.3,51.6,5.2,High,money_order
+09-12-2018,14:50:15,5,51472,Male,Web,Member,Auto & Accessories,Car Speakers,211,1,0.1,128.9,12.9,Critical,credit_card
+13-12-2018,18:14:36,8,45606,Male,Web,Member,Auto & Accessories,Car Body Covers,117,4,0.2,27.6,2.8,High,credit_card
+13-10-2018,21:11:26,5,47238,Male,Web,Member,Auto & Accessories,Car & Bike Care,118,1,0.3,20.3,2,Critical,credit_card
+30-04-2018,22:02:15,6,18609,Male,Web,Member,Auto & Accessories,Tyre,250,1,0.3,160,16,Medium,credit_card
+05-11-2018,13:09:48,3,39387,Male,Web,Member,Auto & Accessories,Bike Tyres,72,1,0.3,36,3.6,High,credit_card
+15-04-2018,11:31:41,9,47027,Male,Web,Member,Auto & Accessories,Car Mat,54,5,0.1,10.8,1.1,High,credit_card
+19-08-2018,20:31:09,9,31526,Male,Web,Member,Auto & Accessories,Car Seat Covers,114,1,0.1,30.6,3.1,High,credit_card
+22-09-2018,08:48:13,8,25308,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231,5,0.2,127.9,12.8,Medium,money_order
+07-06-2018,21:44:54,2,47320,Male,Web,Member,Auto & Accessories,Car Media Players,140,1,0.3,53,5.3,Critical,credit_card
+10-08-2018,13:26:59,4,52527,Male,Web,Member,Auto & Accessories,Car Speakers,211,1,0.3,109.9,11,Medium,money_order
+18-10-2018,16:02:23,2,17333,Male,Web,Member,Auto & Accessories,Car Body Covers,117,1,0.2,34.7,3.5,High,credit_card
+13-10-2018,13:47:39,3,26223,Male,Web,Member,Auto & Accessories,Car & Bike Care,118,1,0.1,36.8,3.7,High,credit_card
+15-07-2018,08:33:19,1,22734,Male,Web,Member,Auto & Accessories,Tyre,250,1,0.1,167.5,16.8,High,money_order
+13-02-2018,14:27:11,2,54066,Male,Web,Member,Auto & Accessories,Bike Tyres,72,1,0.2,72,7.2,High,e_wallet
+13-09-2018,08:44:17,4,55093,Male,Web,Member,Auto & Accessories,Car Mat,54,1,0.3,54,5.4,Critical,credit_card
+15-08-2018,10:33:30,2,49436,Male,Web,Member,Auto & Accessories,Car Seat Covers,114,4,0.3,20.3,2,Medium,e_wallet
+20-08-2018,11:45:39,3,41257,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231,1,0.3,116.4,11.6,Medium,credit_card
+20-09-2018,17:15:46,6,55433,Male,Web,Member,Auto & Accessories,Car Media Players,140,4,0.3,32,3.2,High,money_order
+15-02-2018,09:19:48,1,13366,Male,Web,Member,Auto & Accessories,Car Speakers,211,5,0.1,120.5,12,Critical,credit_card
+28-07-2018,16:52:55,4,41451,Male,Web,Member,Auto & Accessories,Car Body Covers,117,4,0.1,32.3,3.2,High,credit_card
+09-11-2018,18:32:47,2,42588,Male,Web,Member,Auto & Accessories,Car & Bike Care,118,1,0.1,36.8,3.7,High,e_wallet
+26-11-2018,22:04:34,9,26754,Male,Web,Member,Auto & Accessories,Tyre,250,4,0.3,140,14,Critical,credit_card
+30-07-2018,03:06:35,10,34365,Male,Web,Member,Auto & Accessories,Bike Tyres,72,4,0.3,18,1.8,Critical,credit_card
+22-03-2018,00:17:37,4,49745,Male,Web,Member,Auto & Accessories,Car Mat,54,5,0.3,10.8,1.1,High,credit_card
+06-09-2018,22:39:29,8,53213,Male,Web,Member,Auto & Accessories,Car Seat Covers,114,1,0.3,28.3,2.8,Critical,credit_card
+09-05-2018,20:48:59,8,43735,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231,1,0.3,144.1,14.4,High,credit_card
+20-09-2018,20:42:44,8,14760,Male,Web,Member,Auto & Accessories,Car Media Players,140,1,0.1,58.6,5.9,High,credit_card
+16-01-2018,14:56:50,10,44410,Male,Web,Member,Auto & Accessories,Car Speakers,211,5,0.3,99.4,9.9,High,credit_card
+08-03-2018,09:42:43,1,53552,Male,Web,Member,Auto & Accessories,Car Body Covers,117,1,0.2,30,3,Critical,credit_card
+26-11-2018,16:53:30,1,39696,Male,Web,Member,Auto & Accessories,Car & Bike Care,118,1,0.3,28.6,2.9,High,credit_card
+27-08-2018,12:55:42,3,22235,Male,Web,Member,Auto & Accessories,Tyre,250,4,0.3,120,12,Critical,debit_card
+11-05-2018,13:10:51,7,42599,Male,Web,Member,Auto & Accessories,Bike Tyres,72,1,0.2,36,3.6,High,credit_card
+22-06-2018,19:22:22,7,27079,Female,Web,Member,Auto & Accessories,Car Mat,54,1,0.3,27,2.7,Critical,credit_card
+01-05-2018,08:12:37,1,57745,Male,Web,Guest,Auto & Accessories,Car Seat Covers,114,1,0.3,24.9,2.5,High,credit_card
+19-02-2018,22:17:15,4,20917,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231,5,0.3,104.8,10.5,Critical,credit_card
+11-09-2018,22:32:31,2,54446,Male,Web,Member,Auto & Accessories,Car Media Players,140,1,0.3,54.4,5.4,High,credit_card
+20-03-2018,23:45:07,5,55746,Male,Web,Member,Auto & Accessories,Car Speakers,211,1,0.1,124.7,12.5,Critical,credit_card
+22-09-2018,23:23:18,10,58534,Male,Web,Member,Auto & Accessories,Car Body Covers,117,1,0.2,32.3,3.2,Critical,credit_card
+03-11-2018,08:59:39,2,53957,Male,Web,Member,Auto & Accessories,Car & Bike Care,118,4,0.3,19.1,1.9,Critical,credit_card
+14-05-2018,08:35:33,8,53395,Male,Web,Member,Auto & Accessories,Tyre,250,4,0.3,140,14,High,credit_card
+22-04-2018,11:32:22,5,52267,Male,Web,Member,Auto & Accessories,Bike Tyres,72,,0.1,36,3.6,Critical,credit_card
+30-12-2018,07:50:33,7,29085,Male,Web,Member,Auto & Accessories,Car Mat,54,5,0.2,10.8,1.1,High,credit_card
+05-10-2018,09:10:34,8,56399,Male,Web,Member,Auto & Accessories,Car Seat Covers,114,1,0.3,20.3,2,High,credit_card
+14-10-2018,15:39:33,3,29872,Male,Web,Member,Fashion,Suits,109,5,0.5,23.6,2.4,High,e_wallet
+25-06-2018,11:45:19,9,13517,Male,Web,Member,Fashion,Sports Wear,85,5,0.5,17,1.7,Critical,money_order
+24-04-2018,14:18:04,2,50796,Male,Web,Member,Fashion,Casula Shoes,122,3,0.4,27.4,2.7,High,credit_card
+18-08-2018,12:41:01,10,17741,Male,Web,Member,Fashion,Running Shoes,224,1,0.5,117.1,11.7,High,credit_card
+14-11-2018,15:45:12,2,53526,Male,Web,Member,Fashion,Formal Shoes,213,3,0.5,113.8,11.4,High,money_order
+17-08-2018,01:22:20,7,56048,Male,Web,Member,Fashion,Sneakers,62,2,0.4,31,3.1,High,money_order
+09-12-2018,00:37:23,6,40660,Male,Web,Member,Fashion,Titak watch,228,1,0.5,145.7,14.6,High,money_order
+29-06-2018,20:44:23,2,26633,Male,Web,Member,Fashion,Fossil Watch,159,1,0.5,77.4,7.7,Medium,money_order
+22-04-2018,20:40:31,1,42479,Male,Web,Member,Fashion,T - Shirts,248,5,0.4,143.2,14.3,High,credit_card
+09-10-2018,01:44:40,7,13850,Male,Web,Member,Fashion,Shirts,196,5,0.4,96.4,9.6,High,credit_card
+23-11-2018,14:18:28,10,11018,Male,Web,Member,Fashion,Jeans,218,5,0.5,105.3,10.5,Critical,credit_card
+16-07-2018,19:11:28,9,48394,Male,Web,Member,Fashion,Suits,109,2,0.4,20.3,2,High,credit_card
+30-07-2018,12:48:54,8,34215,Male,Web,Member,Fashion,Sports Wear,85,3,0.4,28.3,2.8,Medium,credit_card
+14-02-2018,20:27:07,9,50967,Male,Web,Member,Fashion,Casula Shoes,122,1,0.4,32.2,3.2,Critical,money_order
+14-11-2018,07:44:12,4,31483,Male,Web,Member,Fashion,Running Shoes,224,3,0.5,137.3,13.7,High,money_order
+16-02-2018,19:00:20,10,48567,Female,Web,Member,Fashion,Formal Shoes,213,1,0.5,122.4,12.2,Medium,credit_card
+27-08-2018,12:30:35,9,19776,Male,Web,Member,Fashion,Sneakers,62,1,0.5,62,6.2,Critical,credit_card
+14-05-2018,17:21:38,4,34465,Male,Web,Member,Fashion,Titak watch,228,3,0.4,120.6,12.1,High,credit_card
+27-05-2018,16:15:38,3,26208,Male,Web,Member,Fashion,Fossil Watch,159,1,0.5,71.1,7.1,Critical,credit_card
+03-01-2018,21:28:22,3,36564,Male,Web,Member,Fashion,T - Shirts,248,1,0.4,158.1,15.8,Medium,credit_card
+19-07-2018,09:22:39,1,56828,Male,Web,Member,Fashion,Shirts,196,1,0.5,114,11.4,Medium,money_order
+06-03-2018,19:02:05,4,23793,Female,Web,Member,Fashion,Jeans,218,1,0.5,111.8,11.2,Critical,credit_card
+19-01-2018,10:33:51,8,41427,Male,Web,Member,Fashion,Suits,109,3,0.5,12.7,1.3,Critical,credit_card
+23-03-2018,13:44:46,1,10653,Male,Web,Member,Fashion,Sports Wear,85,3,0.5,28.3,2.8,High,credit_card
+18-07-2018,19:01:54,8,32525,Male,Web,Member,Fashion,Casula Shoes,122,2,0.4,32.2,3.2,High,credit_card
+13-10-2018,12:22:32,4,29968,Male,Web,Member,Fashion,Running Shoes,224,1,0.4,126.1,12.6,High,money_order
+27-04-2018,14:53:37,1,21313,Female,Web,Member,Fashion,Formal Shoes,213,1,0.4,116,11.6,Critical,credit_card
+23-09-2018,18:02:49,10,20682,Male,Web,Member,Fashion,Sneakers,62,1,0.4,62,6.2,Medium,credit_card
+17-04-2018,19:53:32,1,16586,Male,Web,Member,Fashion,Titak watch,228,2,0.5,143.4,14.3,High,money_order
+18-08-2018,14:40:00,7,45096,Male,Web,Member,Fashion,Fossil Watch,159,1,0.5,72.6,7.3,High,credit_card
+08-06-2018,22:32:31,7,12713,Female,Web,Member,Fashion,T - Shirts,248,3,0.4,138.2,13.8,High,credit_card
+11-11-2018,18:11:14,9,47056,Male,Web,Member,Fashion,Shirts,196,3,0.5,110.1,11,High,credit_card
+14-02-2018,08:02:31,5,40084,Male,Web,Member,Fashion,Jeans,218,2,0.5,133.6,13.4,Critical,e_wallet
+28-05-2018,19:17:48,3,38067,Female,Web,Member,Fashion,Suits,109,5,0.5,12.7,1.3,Medium,credit_card
+29-12-2018,11:27:48,8,12872,Female,Web,Member,Fashion,Sports Wear,85,5,0.5,17,1.7,Medium,money_order
+26-04-2018,16:41:58,7,12635,Female,Web,Member,Fashion,Casula Shoes,122,1,0.5,37.1,3.7,High,debit_card
+06-09-2018,21:05:52,7,39749,Female,Web,Member,Fashion,Running Shoes,224,2,0.4,126.1,12.6,High,credit_card
+01-11-2018,21:16:43,3,50072,Male,Web,Member,Fashion,Formal Shoes,213,1,0.4,124.5,12.4,Medium,credit_card
+16-07-2018,18:21:13,2,25125,Male,Web,Member,Fashion,Sneakers,62,3,0.5,20.7,2.1,High,credit_card
+17-07-2018,17:57:28,4,51305,Male,Web,Member,Fashion,Titak watch,228,3,0.4,134.3,13.4,High,credit_card
+25-08-2018,20:41:55,10,52516,Male,Web,Member,Fashion,Fossil Watch,159,5,0.4,63.1,6.3,High,e_wallet
+09-06-2018,21:25:42,6,37542,Male,Web,Guest,Fashion,T - Shirts,248,3,0.5,160.6,16.1,High,credit_card
+24-08-2018,17:59:00,8,36368,Female,Web,Member,Fashion,Shirts,196,1,0.4,108.2,10.8,High,credit_card
+13-04-2018,11:43:43,5,38594,Male,Web,Member,Fashion,Jeans,218,5,0.5,83.5,8.4,Medium,credit_card
+01-01-2018,08:57:03,3,16003,Male,Web,Member,Fashion,Suits,109,1,0.4,24.6,2.5,Critical,credit_card
+22-12-2018,17:23:21,7,13198,Male,Web,Member,Fashion,Sports Wear,85,1,0.4,21.3,2.1,Medium,credit_card
+02-05-2018,07:08:01,10,11439,Male,Web,Member,Fashion,Casula Shoes,122,2,0.4,37.1,3.7,Medium,money_order
+22-01-2018,13:39:48,5,58553,Female,Web,Member,Fashion,Running Shoes,224,1,0.5,137.3,13.7,Critical,money_order
+16-05-2018,15:21:50,3,32198,Male,Web,Member,Fashion,Formal Shoes,213,1,0.4,98.9,9.9,Critical,e_wallet
+20-11-2018,18:55:21,7,53284,Male,Web,Member,Fashion,Sneakers,62,1,0.4,62,6.2,High,credit_card
+07-02-2018,21:52:13,10,49448,Male,Web,Member,Fashion,Titak watch,228,3,0.5,127.5,12.7,High,credit_card
+23-03-2018,13:37:52,8,39542,Male,Web,Member,Fashion,Fossil Watch,159,1,0.4,75.8,7.6,Critical,money_order
+22-03-2018,00:50:48,7,16358,Female,Web,Member,Fashion,T - Shirts,248,3,0.5,160.6,16.1,Medium,credit_card
+03-04-2018,00:18:41,7,39024,Male,Web,Member,Fashion,Shirts,196,2,0.5,112.1,11.2,Critical,credit_card
+07-05-2018,23:01:29,3,38109,Male,Web,Member,Fashion,Jeans,218,1,0.5,129.3,12.9,Medium,money_order
+12-12-2018,10:59:12,10,54766,Male,Web,Member,Fashion,Suits,109,2,0.5,22.5,2.2,Critical,money_order
+30-12-2018,09:47:28,5,32281,Male,Web,Member,Fashion,Sports Wear,85,1,0.4,21.3,2.1,High,credit_card
+01-11-2018,00:29:18,3,45817,Male,Web,Member,Fashion,Casula Shoes,122,5,0.5,35.9,3.6,Medium,credit_card
+22-02-2018,11:16:39,5,18204,Female,Web,Member,Fashion,Running Shoes,224,1,0.5,137.3,13.7,Critical,credit_card
+26-06-2018,13:47:09,9,32474,Male,Web,Member,Fashion,Formal Shoes,213,1,0.5,122.4,12.2,Medium,credit_card
+20-07-2018,17:46:35,7,57073,Male,Web,Member,Fashion,Sneakers,62,2,0.5,31,3.1,Medium,credit_card
+23-04-2018,21:49:37,5,59970,Male,Web,Member,Fashion,Titak watch,228,3,0.5,113.8,11.4,Medium,credit_card
+26-07-2018,17:49:11,2,39091,Male,Web,Member,Fashion,Fossil Watch,159,3,0.5,55.2,5.5,Medium,credit_card
+19-12-2018,19:37:39,9,25256,Male,Web,Member,Fashion,T - Shirts,248,3,0.5,145.7,14.6,High,credit_card
+03-03-2018,23:51:39,3,45858,Male,Web,Member,Fashion,Shirts,196,2,0.4,108.2,10.8,High,credit_card
+01-07-2018,09:34:04,5,26742,Male,Web,Member,Fashion,Jeans,218,1,0.5,111.8,11.2,Medium,credit_card
+25-09-2018,11:30:10,6,26286,Female,Web,Member,Fashion,Suits,109,5,0.5,1.8,0.2,High,credit_card
+15-09-2018,22:48:48,4,16465,Female,Web,Member,Fashion,Sports Wear,85,1,0.5,21.3,2.1,Medium,money_order
+20-11-2018,21:37:23,9,46821,Male,Web,Member,Fashion,Casula Shoes,122,1,0.5,17.6,1.8,Medium,money_order
+30-05-2018,19:37:02,1,20172,Female,Web,Member,Fashion,Running Shoes,224,1,0.4,126.1,12.6,Medium,credit_card
+05-02-2018,19:16:50,3,33872,Male,Web,Member,Fashion,Formal Shoes,213,3,0.4,107.4,10.7,Medium,credit_card
+28-04-2018,12:34:35,5,45430,Male,Web,Member,Fashion,Sneakers,62,2,0.4,31,3.1,Medium,credit_card
+10-11-2018,17:25:40,3,51351,Male,Web,Member,Fashion,Titak watch,228,1,0.4,143.4,14.3,High,credit_card
+25-10-2018,13:54:11,3,50924,Male,Web,Member,Fashion,Fossil Watch,159,1,0.5,59.9,6,Medium,money_order
+20-05-2018,14:26:45,2,53848,Male,Web,Member,Fashion,T - Shirts,248,1,0.5,158.1,15.8,Medium,credit_card
+10-12-2018,09:52:21,9,50040,Male,Web,Member,Fashion,Shirts,196,5,0.5,67,6.7,High,credit_card
+20-05-2018,17:07:44,4,50307,Male,Web,Member,Fashion,Jeans,218,3,0.5,118.4,11.8,Medium,credit_card
+04-12-2018,19:53:56,2,54221,Male,Web,Member,Fashion,Suits,109,1,0.4,20.3,2,High,credit_card
+27-12-2018,12:43:20,4,53722,Female,Web,Member,Fashion,Sports Wear,85,1,0.5,0.8,0.1,High,credit_card
+22-10-2018,12:06:16,7,53575,Female,Web,Member,Fashion,Casula Shoes,122,1,0.5,35.9,3.6,Medium,credit_card
+30-06-2018,09:49:33,8,31953,Male,Web,Member,Fashion,Running Shoes,224,1,0.4,135,13.5,High,credit_card
+25-07-2018,20:51:07,6,59219,Male,Web,Member,Fashion,Formal Shoes,213,3,0.5,101.1,10.1,High,credit_card
+03-08-2018,08:34:52,7,26133,Male,Web,Member,Fashion,Sneakers,62,1,0.5,62,6.2,High,credit_card
+16-05-2018,01:42:58,3,13024,Male,Web,Member,Fashion,Titak watch,228,1,0.5,120.6,12.1,Medium,credit_card
+07-05-2018,14:21:03,1,43561,Male,Web,Member,Fashion,Fossil Watch,159,5,0.4,47.2,4.7,High,credit_card
+06-05-2018,14:12:27,10,58438,Male,Web,Member,Fashion,T - Shirts,248,2,0.5,153.1,15.3,High,money_order
+04-07-2018,19:19:21,5,19526,Male,Web,Member,Fashion,Shirts,196,3,0.5,86.6,8.7,Critical,money_order
+17-11-2018,22:02:13,6,35822,Male,Web,Member,Fashion,Jeans,218,5,0.4,116.2,11.6,High,money_order
+07-07-2018,08:46:56,1,25158,Male,Web,Member,Fashion,Suits,109,5,0.5,1.8,0.2,High,credit_card
+06-04-2018,14:17:00,2,19500,Male,Web,Member,Fashion,Sports Wear,85,3,0.4,28.3,2.8,High,credit_card
+15-06-2018,12:36:28,1,35288,Female,Web,Member,Fashion,Casula Shoes,122,2,0.5,29.8,3,High,credit_card
+12-12-2018,11:55:42,6,37489,Male,Web,Member,Fashion,Running Shoes,224,2,0.5,121.6,12.2,High,credit_card
+10-07-2018,16:31:45,8,44951,Male,Web,Member,Fashion,Formal Shoes,213,1,0.5,126.6,12.7,High,money_order
+08-05-2018,20:28:49,8,20924,Male,Web,Member,Fashion,Sneakers,62,5,0.5,12.4,1.2,Medium,credit_card
+06-07-2018,14:51:37,8,30645,Male,Web,Member,Fashion,Titak watch,228,2,0.5,134.3,13.4,Critical,credit_card
+13-12-2018,21:15:56,7,46391,Male,Web,Member,Fashion,Fossil Watch,159,1,0.4,53.6,5.4,High,money_order
+05-09-2018,17:27:01,1,43539,Female,Web,Member,Fashion,T - Shirts,248,3,0.4,153.1,15.3,High,e_wallet
+12-11-2018,16:08:03,1,25050,Male,Web,Member,Fashion,Shirts,196,3,0.4,104.2,10.4,Medium,credit_card
+18-08-2018,11:02:12,8,11571,Female,Web,Member,Fashion,Jeans,218,1,0.5,127.1,12.7,Critical,credit_card
+05-08-2018,20:31:24,9,15920,Male,Web,Member,Fashion,Suits,109,5,0.5,1.8,0.2,High,credit_card
+05-09-2018,22:29:43,3,10556,Male,Web,Member,Fashion,Sports Wear,85,3,0.4,28.3,2.8,Medium,credit_card
+13-10-2018,19:00:01,2,26041,Female,Web,Member,Fashion,Casula Shoes,122,1,0.5,40.8,4.1,High,e_wallet
+14-08-2018,15:39:32,10,13989,Male,Web,Member,Fashion,Running Shoes,224,3,0.4,130.6,13.1,Medium,credit_card
+25-11-2018,11:00:52,10,22592,Male,Web,Member,Fashion,Formal Shoes,213,1,0.4,124.5,12.4,High,money_order
+22-10-2018,12:48:41,7,48572,Male,Web,Guest,Fashion,Sneakers,62,1,0.5,62,6.2,Critical,credit_card
+09-08-2018,21:38:41,9,19327,Male,Web,Member,Fashion,Titak watch,228,2,0.4,138.9,13.9,High,money_order
+17-09-2018,16:00:20,7,36605,Male,Web,Member,Fashion,Fossil Watch,159,2,0.4,66.3,6.6,Medium,e_wallet
+17-09-2018,12:31:49,10,30111,Male,Web,Member,Fashion,T - Shirts,248,3,0.5,130.8,13.1,High,credit_card
+14-07-2018,08:46:50,10,25610,Female,Web,Member,Electronic,Samsung Mobile,220,2,0.1,135.6,13.6,Medium,credit_card
+05-09-2018,14:39:08,5,46514,Female,Web,Member,Electronic,Watch,104,1,0.1,20.9,2.1,Critical,money_order
+24-04-2018,02:14:00,7,16112,Female,Web,Member,Electronic,Fans,149,4,0.1,63,6.3,High,credit_card
+01-07-2018,20:25:32,3,53818,Male,Web,Member,Electronic,Iron,222,4,0.1,115.4,11.5,High,credit_card
+04-11-2018,16:19:07,8,57282,Female,Web,Member,Electronic,Tablet,199,3,0.2,89.2,8.9,High,credit_card
+22-09-2018,18:41:27,1,31394,Male,Web,Member,Electronic,Mouse,111,2,0.1,28.8,2.9,Medium,credit_card
+05-07-2018,16:10:12,8,51519,Female,Web,Member,Electronic,Keyboard,33,4,0.1,8.3,0.8,High,credit_card
+10-05-2018,00:20:09,8,26816,Male,Web,Member,Electronic,Apple Laptop,250,3,0.2,132.5,13.3,Medium,credit_card
+12-05-2018,22:34:49,4,23022,Male,Web,Member,Electronic,Mixer/Juicer,83,4,0.2,20.8,2.1,Medium,credit_card
+15-02-2018,16:51:49,1,32795,Female,Web,Member,Electronic,LED,192,3,0.1,94.7,9.5,Medium,credit_card
+16-07-2018,17:15:06,5,36530,Male,Web,Member,Electronic,LCD,65,4,0.1,16.3,1.6,Medium,credit_card
+23-02-2018,19:26:07,4,19016,Female,Web,Member,Electronic,Speakers,130,1,0.1,43.5,4.4,Medium,credit_card
+29-10-2018,09:15:31,4,41315,Male,Web,Member,Electronic,Samsung Mobile,220,1,0.1,107,10.7,High,e_wallet
+17-11-2018,09:08:30,8,52210,Female,Web,Member,Electronic,Watch,104,1,0.2,13.6,1.4,Medium,credit_card
+03-10-2018,22:34:58,9,36281,Male,Web,Member,Electronic,Fans,149,4,0.2,39.2,3.9,Medium,credit_card
+10-06-2018,10:42:53,6,47394,Female,Web,Member,Electronic,Iron,222,3,0.2,115.4,11.5,Medium,credit_card
+08-11-2018,20:42:39,4,12723,Male,Web,Member,Electronic,Tablet,199,1,0.2,99.1,9.9,High,credit_card
+11-08-2018,18:56:51,2,41980,Female,Web,Member,Electronic,Mouse,111,1,0.2,3.3,0.3,High,credit_card
+20-08-2018,22:36:14,10,50673,Female,Web,Member,Electronic,Keyboard,33,1,0.1,33,3.3,High,debit_card
+19-12-2018,21:22:19,2,27968,Female,Web,Member,Electronic,Apple Laptop,250,2,0.2,160,16,High,credit_card
+02-06-2018,21:34:10,2,55444,Male,Web,Member,Electronic,Mixer/Juicer,83,1,0.2,83,8.3,Medium,money_order
+19-12-2018,18:24:26,8,44838,Male,Web,Member,Electronic,LED,192,2,0.2,104.3,10.4,High,credit_card
+30-06-2018,01:35:46,3,55849,Male,Web,Member,Electronic,LCD,65,2,0.2,32.5,3.3,High,credit_card
+20-10-2018,22:51:17,2,58087,Female,Web,Member,Electronic,Speakers,130,3,0.1,46.1,4.6,Medium,credit_card
+07-12-2018,19:20:08,4,59843,Female,Web,Member,Electronic,Samsung Mobile,220,3,0.1,133.4,13.3,Medium,money_order
+11-10-2018,12:10:18,10,48652,Male,Web,Member,Electronic,Watch,104,3,0.2,11.5,1.2,High,credit_card
+21-09-2018,15:00:13,3,46313,Female,Web,Member,Electronic,Fans,149,3,0.2,46.7,4.7,Medium,money_order
+02-08-2018,17:15:48,10,33877,Female,Web,Member,Electronic,Iron,222,1,0.2,97.6,9.8,Medium,credit_card
+15-05-2018,19:04:46,1,40309,Male,Web,Member,Electronic,Tablet,199,4,0.1,111,11.1,High,credit_card
+29-01-2018,09:07:09,10,33396,Female,Web,Member,Electronic,Mouse,111,3,0.2,17.7,1.8,Medium,money_order
+12-03-2018,21:30:05,10,43732,Female,Web,Member,Electronic,Keyboard,33,3,0.2,11,1.1,High,credit_card
+05-08-2018,18:24:33,6,16360,Male,Web,Member,Electronic,Apple Laptop,250,4,0.1,160,16,High,credit_card
+17-12-2018,16:17:21,1,10399,Female,Web,Member,Electronic,Mixer/Juicer,83,1,0.2,83,8.3,High,credit_card
+02-03-2018,19:30:50,5,14477,Female,Web,Member,Electronic,LED,192,3,0.2,89,8.9,Critical,credit_card
+14-11-2018,10:00:45,6,27912,Female,Web,Member,Electronic,LCD,65,4,0.1,16.3,1.6,Medium,money_order
+05-10-2018,17:40:18,10,24900,Female,Web,Member,Electronic,Speakers,130,1,0.2,17.5,1.8,Medium,credit_card
+17-11-2018,21:26:47,10,49828,Female,Web,Member,Electronic,Samsung Mobile,220,4,0.2,122.4,12.2,High,credit_card
+02-05-2018,22:36:14,6,32481,Female,Web,Member,Electronic,Watch,104,1,0.2,3.2,0.3,Medium,credit_card
+06-10-2018,13:47:09,1,51763,Male,Web,Member,Electronic,Fans,149,1,0.1,46.7,4.7,Medium,credit_card
+07-01-2018,17:32:58,10,27718,Female,Web,Member,Electronic,Iron,222,1,0.2,137.6,13.8,High,credit_card
+02-01-2018,20:49:29,2,31251,Female,Web,Member,Electronic,Tablet,199,4,0.2,87.2,8.7,Medium,credit_card
+27-03-2018,12:22:24,10,11153,Female,Web,Member,Electronic,Mouse,111,1,0.1,25.5,2.5,High,money_order
+07-08-2018,11:11:30,8,55198,Male,Web,Member,Electronic,Keyboard,33,1,0.2,33,3.3,Critical,credit_card
+13-07-2018,13:14:25,10,30034,Male,Web,Member,Electronic,Apple Laptop,250,3,0.2,132.5,13.3,High,money_order
+28-07-2018,18:13:15,2,28243,Female,Web,Member,Electronic,Mixer/Juicer,83,1,0.2,16.6,1.7,Medium,credit_card
+12-07-2018,14:32:57,8,13513,Male,Web,Member,Electronic,LED,192,3,0.1,94.7,9.5,High,money_order
+07-03-2018,07:15:57,7,50145,Male,Web,Member,Electronic,LCD,65,1,0.2,65,6.5,Medium,credit_card
+25-12-2018,13:19:23,10,14080,Female,Web,Member,Electronic,Speakers,130,2,0.1,47.4,4.7,Medium,credit_card
+07-10-2018,22:36:36,10,21404,Female,Web,Member,Electronic,Samsung Mobile,220,1,0.2,96,9.6,Medium,credit_card
+05-11-2018,19:41:43,1,39664,Female,Web,Member,Electronic,Watch,104,2,0.2,15.7,1.6,High,credit_card
+11-10-2018,10:55:45,10,39744,Female,Web,Member,Electronic,Fans,149,1,0.1,67.5,6.8,Medium,money_order
+12-06-2018,15:28:49,1,53187,Female,Web,Member,Electronic,Iron,222,4,0.2,124.2,12.4,High,money_order
+27-08-2018,19:40:22,5,37769,Female,Web,Member,Electronic,Tablet,199,4,0.2,79.2,7.9,Medium,e_wallet
+25-09-2018,10:50:33,2,16969,Female,Web,Member,Electronic,Mouse,111,4,0.2,8.8,0.9,Medium,credit_card
+14-11-2018,18:43:56,6,14304,Female,Web,Member,Electronic,Keyboard,33,2,0.2,16.5,1.7,Medium,money_order
+16-11-2018,18:18:09,3,56958,Male,Web,Member,Electronic,Apple Laptop,250,3,0.1,162.5,16.3,Medium,credit_card
+04-09-2018,10:22:35,9,15322,Male,Web,Member,Electronic,Mixer/Juicer,83,4,0.2,20.8,2.1,High,credit_card
+15-10-2018,10:19:26,6,51442,Male,Web,Member,Electronic,LED,192,2,0.1,100.5,10,Medium,credit_card
+06-07-2018,19:45:13,3,41803,Female,Web,Member,Electronic,LCD,65,3,0.2,21.7,2.2,High,credit_card
+03-10-2018,16:03:03,2,30790,Male,Web,Member,Electronic,Speakers,130,4,0.1,34.4,3.4,Medium,credit_card
+26-07-2018,16:44:38,2,25834,Female,Web,Member,Electronic,Samsung Mobile,220,1,0.2,131.2,13.1,Medium,credit_card
+03-08-2018,09:27:17,5,28314,Male,Web,Member,Electronic,Watch,104,2,0.2,19.8,2,High,credit_card
+08-07-2018,19:08:43,5,46975,Male,Web,Member,Electronic,Fans,149,3,0.1,64.5,6.5,High,credit_card
+20-12-2018,11:05:50,2,57838,Female,Web,Member,Electronic,Iron,222,4,0.1,115.4,11.5,Medium,credit_card
+10-08-2018,09:27:35,8,36864,Male,Web,Member,Electronic,Tablet,199,3,0.1,113,11.3,Critical,credit_card
+02-03-2018,11:51:27,5,27520,Female,Web,Member,Electronic,Mouse,111,1,0.2,25.5,2.5,Medium,credit_card
+27-10-2018,12:13:43,9,10806,Female,Web,Member,Electronic,Keyboard,33,1,0.2,33,3.3,High,credit_card
+22-05-2018,16:16:37,2,12830,Male,Web,Member,Electronic,Apple Laptop,250,1,0.2,107.5,10.8,Medium,e_wallet
+28-10-2018,18:51:01,5,14630,Female,Web,Member,Electronic,Mixer/Juicer,83,2,0.2,41.5,4.2,High,credit_card
+14-03-2018,19:10:10,10,10166,Female,Web,Member,Electronic,LED,192,1,0.1,102.4,10.2,Critical,credit_card
+11-09-2018,09:19:42,4,59211,Female,Web,Member,Electronic,LCD,65,1,0.2,65,6.5,Medium,money_order
+06-11-2018,11:46:04,9,10496,Female,Web,Member,Electronic,Speakers,130,1,0.1,46.1,4.6,High,credit_card
+06-08-2018,20:35:00,4,13472,Female,Web,Member,Electronic,Samsung Mobile,220,1,0.2,96,9.6,Medium,credit_card
+17-11-2018,13:50:10,2,21864,Female,Web,Member,Electronic,Watch,104,3,0.2,11.5,1.2,Medium,credit_card
+20-12-2018,07:41:45,2,47585,Female,Web,Member,Electronic,Fans,149,2,0.2,54.1,5.4,Critical,credit_card
+26-09-2018,11:38:30,3,13010,Female,Web,Member,Electronic,Iron,222,1,0.1,108.7,10.9,Medium,credit_card
+01-04-2018,20:52:22,4,52834,Female,Web,Member,Electronic,Tablet,199,1,0.2,111,11.1,Critical,credit_card
+13-07-2018,23:00:22,2,58723,Male,Web,Member,Electronic,Mouse,111,1,0.1,14.4,1.4,Medium,credit_card
+12-07-2018,15:13:01,6,41127,Male,Web,Member,Electronic,Keyboard,33,4,0.2,8.3,0.8,Medium,credit_card
+23-08-2018,14:47:25,5,47298,Female,Web,Member,Electronic,Apple Laptop,250,2,0.1,165,16.5,Critical,credit_card
+07-07-2018,09:14:51,10,43561,Male,Web,Member,Electronic,Mixer/Juicer,83,1,0.1,16.6,1.7,Medium,credit_card
+01-01-2018,12:17:35,2,26825,Female,Web,Member,Electronic,LED,192,1,0.2,108.2,10.8,Medium,credit_card
+12-05-2018,19:29:17,9,18092,Female,Web,Member,Electronic,LCD,65,4,0.2,16.3,1.6,High,credit_card
+22-05-2018,18:15:54,3,44454,Male,Web,Member,Electronic,Speakers,130,4,0.2,29.2,2.9,High,credit_card
+09-05-2018,13:20:39,9,53971,Female,Web,Member,Electronic,Samsung Mobile,220,2,0.1,126.8,12.7,Critical,debit_card
+10-03-2018,20:42:05,9,56207,Male,Web,Member,Electronic,Watch,104,3,0.1,14.6,1.5,High,debit_card
+14-08-2018,13:22:37,3,29301,Female,Web,Member,Electronic,Fans,149,3,0.1,64.5,6.5,Medium,e_wallet
+09-02-2018,19:50:19,7,50289,Male,Web,Member,Electronic,Iron,222,3,0.1,122,12.2,Medium,credit_card
+08-01-2018,09:50:08,8,13449,Female,Web,Member,Electronic,Tablet,199,2,0.2,103.1,10.3,Medium,credit_card
+20-11-2018,15:32:41,2,39209,Female,Web,Member,Electronic,Mouse,111,2,0.1,28.8,2.9,Medium,credit_card
+24-04-2018,22:07:05,3,52031,Male,Web,Member,Electronic,Keyboard,33,4,0.2,8.3,0.8,High,debit_card
+14-09-2018,11:43:13,4,23902,Male,Web,Member,Electronic,Apple Laptop,250,1,0.2,160,16,High,credit_card
+29-01-2018,21:49:11,3,20770,Female,Web,Member,Electronic,Mixer/Juicer,83,3,0.1,27.7,2.8,Medium,e_wallet
+24-01-2018,18:07:14,10,32238,Female,Web,Member,Electronic,LED,192,2,0.2,92.8,9.3,High,credit_card
+09-09-2018,17:09:21,7,42109,Female,Web,Member,Electronic,LCD,65,1,0.1,13,1.3,High,credit_card
+11-02-2018,21:42:39,5,58903,Male,Web,Member,Electronic,Speakers,130,4,0.1,34.4,3.4,Critical,credit_card
+23-10-2018,12:07:31,1,29485,Female,Web,Member,Electronic,Samsung Mobile,220,4,0.2,122.4,12.2,Critical,credit_card
+25-05-2018,21:15:02,1,43133,Male,Web,Member,Electronic,Watch,104,1,0.1,23,2.3,High,e_wallet
+03-09-2018,19:20:39,5,45743,Female,Web,Member,Electronic,Fans,149,1,0.1,61.6,6.2,Critical,credit_card
+29-10-2018,10:01:22,3,34607,Female,Web,Member,Electronic,Iron,222,1,0.1,139.8,14,Medium,credit_card
+26-12-2018,10:53:16,3,57869,Female,Web,Member,Electronic,Tablet,199,2,0.2,103.1,10.3,Medium,credit_card
+21-12-2018,11:32:01,5,57919,Male,Web,Member,Electronic,Mouse,111,4,0.2,13.2,1.3,High,credit_card
+16-09-2018,20:59:52,7,30541,Male,Web,Member,Electronic,Keyboard,33,1,0.1,33,3.3,Medium,money_order
+18-05-2018,20:43:41,3,38686,Female,Web,Member,Electronic,Apple Laptop,250,3,0.2,155,15.5,Medium,credit_card
+22-07-2018,18:41:47,3,10810,Male,Web,Member,Electronic,Mixer/Juicer,83,2,0.2,41.5,4.2,Medium,credit_card
+01-11-2018,14:36:25,7,13039,Male,Web,Member,Electronic,LED,192,1,0.1,83.2,8.3,Critical,credit_card
+18-07-2018,17:09:11,7,10228,Female,Web,Member,Electronic,LCD,65,2,0.2,32.5,3.3,Medium,e_wallet
+24-05-2018,13:09:25,7,26714,Female,Web,Member,Electronic,Speakers,130,1,0.2,44.8,4.5,High,credit_card
+25-09-2018,17:10:47,7,41642,Male,Web,Member,Electronic,Samsung Mobile,220,4,0.2,122.4,12.2,Medium,credit_card
+13-01-2018,14:49:14,2,43546,Female,Web,Member,Electronic,Watch,104,1,0.2,13.6,1.4,Medium,credit_card
+12-08-2018,20:51:15,5,31518,Female,Web,Member,Electronic,Fans,149,4,0.1,51.1,5.1,High,credit_card
+20-09-2018,10:14:24,8,14494,Male,Web,Member,Electronic,Iron,222,3,0.2,108.7,10.9,High,credit_card
+18-12-2018,19:09:39,1,29737,Female,Web,Member,Electronic,Tablet,199,1,0.2,109.1,10.9,Medium,money_order
+07-11-2018,09:13:03,10,22067,Male,Web,Member,Electronic,Mouse,111,2,0.2,19.9,2,High,credit_card
+23-07-2018,22:35:09,9,32761,Male,Web,Member,Electronic,Keyboard,33,1,0.1,6.6,0.7,High,credit_card
+20-11-2018,18:12:53,7,37659,Male,Web,Member,Electronic,Apple Laptop,250,4,0.2,120,12,Critical,money_order
+05-06-2018,18:10:09,5,26304,Female,Web,Member,Electronic,Mixer/Juicer,83,4,0.2,20.8,2.1,High,credit_card
+27-04-2018,14:53:08,7,14978,Male,Web,Member,Electronic,LED,192,3,0.1,94.7,9.5,High,credit_card
+25-09-2018,14:16:47,4,40840,Male,Web,Member,Electronic,LCD,65,3,0.2,21.7,2.2,Medium,credit_card
+10-01-2018,08:14:54,7,20002,Male,Web,Member,Electronic,Speakers,130,1,0.2,47.4,4.7,Medium,credit_card
+27-08-2018,12:37:54,6,35878,Female,Web,Member,Electronic,Samsung Mobile,220,4,0.1,131.2,13.1,High,e_wallet
+17-12-2018,18:43:55,6,52032,Female,Web,Member,Electronic,Watch,104,4,0.2,15.7,1.6,Medium,credit_card
+23-10-2018,21:46:52,3,38085,Female,Web,Member,Electronic,Fans,149,3,0.1,55.6,5.6,Medium,credit_card
+04-09-2018,11:31:30,7,46190,Male,Web,Member,Electronic,Iron,222,2,0.2,119.8,12,High,credit_card
+24-09-2018,14:20:00,5,49155,Female,Web,Member,Electronic,Tablet,199,4,0.2,87.2,8.7,Medium,credit_card
+06-10-2018,22:03:39,10,26121,Female,Web,Member,Electronic,Mouse,111,1,0.1,29.9,3,Medium,credit_card
+06-10-2018,14:23:26,3,11996,Female,Web,Member,Electronic,Keyboard,33,2,0.2,16.5,1.7,High,credit_card
+02-10-2018,21:29:17,3,43679,Female,Web,Member,Electronic,Apple Laptop,250,1,0.2,160,16,High,credit_card
+23-07-2018,21:45:43,10,35989,Male,Web,Member,Electronic,Mixer/Juicer,83,1,0.2,16.6,1.7,High,credit_card
+26-10-2018,21:26:08,5,49235,Male,Web,Member,Electronic,LED,192,2,0.2,104.3,10.4,High,credit_card
+30-07-2018,15:28:17,1,48718,Female,Web,Member,Electronic,LCD,65,4,0.2,16.3,1.6,Medium,credit_card
+10-03-2018,11:01:24,3,28347,Male,Web,Member,Electronic,Speakers,130,4,0.1,44.8,4.5,High,credit_card
+24-02-2018,17:09:08,7,45662,Male,Web,Member,Electronic,Samsung Mobile,220,3,0.2,113.6,11.4,Medium,credit_card
+20-05-2018,15:46:48,3,21164,Female,Web,Member,Electronic,Watch,104,1,0.2,13.6,1.4,Critical,e_wallet
+27-09-2018,00:12:53,3,52953,Male,Web,Member,Electronic,Fans,149,2,0.1,60.1,6,Medium,money_order
+11-05-2018,13:28:31,2,54409,Female,Web,Member,Electronic,Iron,222,2,0.2,119.8,12,High,credit_card
+10-07-2018,12:19:44,4,51952,Male,Web,Member,Electronic,Tablet,199,1,0.1,113,11.3,Medium,credit_card
+08-06-2018,12:54:10,1,52939,Female,Web,Member,Electronic,Mouse,111,1,0.2,3.3,0.3,High,credit_card
+03-07-2018,19:27:58,10,45013,Male,Web,Member,Electronic,Keyboard,33,1,0.2,6.6,0.7,Critical,money_order
+21-09-2018,14:48:58,2,12304,Male,Web,Member,Electronic,Apple Laptop,250,2,0.1,165,16.5,High,credit_card
+16-03-2018,12:04:31,9,22526,Female,Web,Member,Electronic,Mixer/Juicer,83,2,0.2,41.5,4.2,High,money_order
+16-12-2018,10:14:09,4,17993,Male,Web,Member,Electronic,LED,192,1,0.1,102.4,10.2,Medium,credit_card
+03-01-2018,13:49:56,6,41955,Male,Web,Member,Electronic,LCD,65,2,0.2,32.5,3.3,High,credit_card
+02-10-2018,12:20:29,4,46468,Female,Web,Member,Electronic,Speakers,130,1,0.2,44.8,4.5,Medium,credit_card
+30-05-2018,19:07:22,9,48162,Male,Web,Member,Electronic,Samsung Mobile,220,2,0.2,118,11.8,High,credit_card
+27-08-2018,16:36:39,1,47560,Female,Web,Member,Electronic,Watch,104,1,0.1,8.4,0.8,High,credit_card
+11-03-2018,13:47:29,6,45393,Female,Web,Member,Electronic,Fans,149,1,0.1,67.5,6.8,High,money_order
+21-10-2018,22:16:40,4,32058,Female,Web,Member,Electronic,Iron,222,1,0.1,139.8,14,Medium,credit_card
+24-05-2018,11:02:12,1,36195,Female,Web,Member,Electronic,Tablet,199,4,0.2,79.2,7.9,Medium,money_order
+05-09-2018,15:59:54,10,28445,Female,Web,Member,Electronic,Mouse,111,3,0.2,14.4,1.4,Medium,credit_card
+18-05-2018,02:07:42,6,16728,Male,Web,Member,Electronic,Keyboard,33,2,0.1,16.5,1.7,Medium,credit_card
+11-03-2018,17:06:48,5,50335,Male,Web,Member,Electronic,Apple Laptop,250,2,0.2,160,16,Medium,credit_card
+14-09-2018,23:45:31,1,32161,Female,Web,Member,Electronic,Mixer/Juicer,83,3,0.2,27.7,2.8,High,credit_card
+20-07-2018,17:40:32,9,27612,Female,Web,Member,Electronic,LED,192,1,0.2,92.8,9.3,High,e_wallet
+11-10-2018,16:22:58,4,56969,Male,Web,Member,Electronic,LCD,65,4,0.2,16.3,1.6,High,money_order
+30-06-2018,16:32:42,1,34287,Female,Web,Member,Electronic,Speakers,130,1,0.2,37,3.7,High,debit_card
+25-04-2018,18:33:35,9,14142,Male,Web,Member,Electronic,Samsung Mobile,220,1,0.2,85,8.5,Medium,money_order
+22-10-2018,13:29:32,7,26377,Female,Web,Member,Electronic,Watch,104,3,0.1,20.9,2.1,Medium,credit_card
+25-06-2018,18:04:52,2,35458,Female,Web,Member,Electronic,Fans,149,1,0.1,46.7,4.7,Medium,credit_card
+22-07-2018,20:00:50,8,23596,Female,Web,Member,Electronic,Iron,222,4,0.1,115.4,11.5,High,credit_card
+25-06-2018,18:43:52,10,10987,Female,Web,First SignUp,Electronic,Tablet,199,1,0.2,111,11.1,Medium,credit_card
+23-11-2018,12:12:07,2,38481,Female,Web,Member,Electronic,Mouse,111,1,0.1,29.9,3,Medium,credit_card
+21-09-2018,09:36:56,1,49383,Female,Web,Member,Electronic,Keyboard,33,3,0.1,11,1.1,Medium,credit_card
+07-05-2018,13:44:46,2,36201,Female,Web,Member,Electronic,Apple Laptop,250,3,0.1,162.5,16.3,High,money_order
+30-06-2018,18:06:42,1,42418,Female,Web,Member,Electronic,Mixer/Juicer,83,1,0.1,2.2,0.2,High,credit_card
+15-12-2018,08:16:56,7,50295,Female,Web,Member,Electronic,LED,192,1,0.2,102.4,10.2,Medium,credit_card
+11-06-2018,16:28:08,9,11135,Male,Web,Member,Electronic,LCD,65,3,0.2,21.7,2.2,Critical,credit_card
+22-12-2018,07:34:13,4,37322,Female,Web,Member,Electronic,Speakers,130,4,0.2,39.6,4,Medium,credit_card
+05-11-2018,17:34:26,3,32131,Female,Web,Member,Electronic,Samsung Mobile,220,1,0.1,107,10.7,Medium,credit_card
+01-11-2018,12:49:50,7,39661,Female,Web,Member,Electronic,Watch,104,1,0.1,20.9,2.1,High,credit_card
+09-08-2018,22:54:54,9,26942,Female,Web,Member,Electronic,Fans,149,1,0.2,63,6.3,High,money_order
+07-05-2018,18:04:34,10,52508,Male,Web,Member,Electronic,Iron,222,1,0.1,135.3,13.5,High,credit_card
+06-05-2018,15:11:26,4,31967,Male,Web,Member,Electronic,Tablet,199,1,0.1,89.2,8.9,Medium,credit_card
+25-04-2018,20:31:35,7,22739,Male,Web,Member,Electronic,Mouse,111,4,0.2,8.8,0.9,Medium,credit_card
+29-07-2018,14:10:13,8,48016,Male,Web,Member,Electronic,Keyboard,33,1,0.2,33,3.3,Critical,credit_card
+24-05-2018,23:23:56,6,19285,Male,Web,Member,Electronic,Apple Laptop,250,4,0.1,160,16,High,credit_card
+13-11-2018,15:16:07,3,56993,Female,Web,Member,Electronic,Mixer/Juicer,83,1,0.2,16.6,1.7,Medium,credit_card
+07-05-2018,20:36:52,10,38929,Male,Web,Member,Electronic,LED,192,1,0.2,73.6,7.4,Medium,money_order
+11-05-2018,20:45:35,3,29612,Female,Web,Member,Electronic,LCD,65,4,0.1,16.3,1.6,High,debit_card
+26-04-2018,18:17:55,6,28603,Female,Web,Member,Electronic,Speakers,130,4,0.2,29.2,2.9,High,credit_card
+12-09-2018,23:36:53,8,13014,Male,Web,Member,Electronic,Samsung Mobile,220,2,0.1,126.8,12.7,Medium,money_order
+14-05-2018,13:51:10,8,14130,Male,Web,Member,Electronic,Watch,104,2,0.1,21.9,2.2,High,credit_card
+28-03-2018,17:01:06,7,11679,Male,Web,Member,Electronic,Fans,149,1,0.2,39.2,3.9,Medium,credit_card
+06-09-2018,17:19:53,1,37825,Male,Web,Member,Electronic,Iron,222,3,0.1,135.3,13.5,Critical,credit_card
+24-12-2018,16:48:47,7,50342,Male,Web,Member,Electronic,Tablet,199,2,0.2,111,11.1,High,credit_card
+22-10-2018,11:48:30,2,38735,Male,Web,Member,Electronic,Mouse,111,1,0.2,8.8,0.9,Critical,credit_card
+23-09-2018,18:21:44,4,52660,Female,Web,Member,Electronic,Keyboard,33,1,0.1,33,3.3,Medium,credit_card
+30-05-2018,13:29:46,8,79095,Male,Web,Member,Home & Furniture,Dinning Tables,119,5,0.4,15.2,1.5,High,credit_card
+17-07-2018,20:30:21,3,60824,Male,Web,Member,Home & Furniture,Shoe Rack,124,3,0.2,36.6,3.7,Medium,credit_card
+16-05-2018,10:59:06,2,81945,Male,Web,Member,Home & Furniture,Umbrellas,70,1,0.2,70,7,Medium,credit_card
+07-04-2018,14:39:00,8,78573,Male,Web,Member,Home & Furniture,Dinner Crockery,133,4,0.2,47.7,4.8,Medium,credit_card
+14-03-2018,08:18:55,5,65066,Male,Web,Member,Home & Furniture,Sofa Covers,216,1,0.3,114.4,11.4,Medium,debit_card
+15-03-2018,10:14:25,10,66037,Male,Web,Member,Home & Furniture,Bed Sheets,211,4,0.3,88.8,8.9,Medium,credit_card
+26-12-2018,09:58:48,6,64368,Male,Web,Member,Home & Furniture,Curtains,34,1,0.4,17,1.7,Medium,credit_card
+08-03-2018,09:42:44,2,77305,Male,Web,Member,Home & Furniture,Towels,228,1,0.3,134.3,13.4,Low,credit_card
+18-10-2018,22:46:42,8,70908,Male,Web,Member,Home & Furniture,Sofas,67,1,0.3,67,6.7,Medium,credit_card
+12-10-2018,08:40:52,5,72918,Male,Web,Member,Home & Furniture,Beds,78,3,0.2,26,2.6,Medium,money_order
+19-05-2018,16:02:15,5,99693,Male,Web,Member,Home & Furniture,Dinning Tables,119,1,0.2,37.8,3.8,Medium,credit_card
+21-11-2018,13:48:03,10,78574,Female,Mobile,Member,Home & Furniture,Shoe Rack,124,4,0.2,34.1,3.4,Medium,credit_card
+09-08-2018,15:04:18,6,66471,Male,Web,Guest,Home & Furniture,Umbrellas,70,3,0.3,23.3,2.3,Medium,credit_card
+09-08-2018,14:00:41,3,91549,Male,Web,Member,Home & Furniture,Dinner Crockery,133,1,0.4,42.4,4.2,Medium,e_wallet
+19-09-2018,10:20:15,9,99705,Female,Mobile,Member,Home & Furniture,Sofa Covers,216,1,0.3,123,12.3,Medium,credit_card
+10-11-2018,13:40:11,3,82018,Male,Web,Member,Home & Furniture,Bed Sheets,211,1,0.2,128.9,12.9,Medium,credit_card
+13-12-2018,17:09:32,2,88348,Male,Web,Member,Home & Furniture,Curtains,34,4,0.3,8.5,0.9,High,credit_card
+24-05-2018,17:14:00,6,92218,Male,Web,Member,Home & Furniture,Towels,228,1,0.3,141.2,14.1,Medium,money_order
+11-01-2018,19:52:39,9,84544,Male,Web,Member,Home & Furniture,Sofas,67,1,0.4,33.5,3.4,Medium,credit_card
+28-11-2018,22:38:25,8,94202,Male,Web,Member,Home & Furniture,Beds,78,5,0.3,15.6,1.6,High,money_order
+23-05-2018,21:14:36,10,77458,Male,Web,Member,Home & Furniture,Dinning Tables,119,5,0.2,27.1,2.7,Medium,money_order
+02-11-2018,16:05:38,3,94468,Male,Web,Member,Home & Furniture,Shoe Rack,124,3,0.3,25.4,2.5,High,credit_card
+22-09-2018,09:05:32,4,91146,Male,Web,Member,Home & Furniture,Umbrellas,70,4,0.2,17.5,1.8,Medium,credit_card
+09-09-2018,11:52:00,2,61648,Male,Web,Member,Home & Furniture,Dinner Crockery,133,5,0.2,39.7,4,Medium,e_wallet
+26-07-2018,08:15:53,2,84087,Male,Web,Member,Home & Furniture,Sofa Covers,216,3,0.3,103.6,10.4,Medium,credit_card
+01-11-2018,13:37:16,6,70049,Male,Web,Member,Home & Furniture,Bed Sheets,211,1,0.3,124.7,12.5,Medium,credit_card
+11-07-2018,16:56:46,2,72880,Male,Web,Member,Home & Furniture,Curtains,34,3,0.2,11.3,1.1,High,credit_card
+30-07-2018,23:17:05,4,73840,Male,Web,Member,Home & Furniture,Towels,228,5,0.3,91,9.1,Medium,credit_card
+09-04-2018,13:49:13,1,90056,Female,Mobile,Guest,Home & Furniture,Sofas,67,1,0.3,67,6.7,Medium,credit_card
+05-07-2018,22:52:59,9,97820,Male,Web,Member,Home & Furniture,Beds,78,1,0.3,78,7.8,Medium,credit_card
+15-07-2018,12:13:10,4,88996,Male,Web,Member,Home & Furniture,Dinning Tables,119,5,0.3,9.3,0.9,Medium,credit_card
+15-08-2018,18:50:08,10,98446,Male,Web,Member,Home & Furniture,Shoe Rack,124,4,0.2,39,3.9,Medium,credit_card
+16-05-2018,20:35:31,5,75253,Male,Web,Member,Home & Furniture,Umbrellas,70,1,0.2,35,3.5,Medium,credit_card
+12-02-2018,19:43:20,6,85944,Male,Web,Member,Home & Furniture,Dinner Crockery,133,5,0.2,46.4,4.6,Medium,credit_card
+24-07-2018,21:44:14,5,81532,Male,Web,Member,Home & Furniture,Sofa Covers,216,1,0.2,133.8,13.4,Medium,credit_card
+22-10-2018,22:31:14,1,62053,Male,Web,Member,Home & Furniture,Bed Sheets,211,1,0.3,109.9,11,Medium,e_wallet
+22-07-2018,20:05:35,9,91562,Male,Web,Member,Home & Furniture,Curtains,34,4,0.3,8.5,0.9,Medium,credit_card
+11-11-2018,23:03:48,3,86289,Male,Web,Member,Home & Furniture,Towels,228,1,0.2,138.9,13.9,Medium,credit_card
+14-11-2018,23:14:51,8,94933,Male,Web,Member,Home & Furniture,Sofas,67,3,0.2,22.3,2.2,Medium,credit_card
+24-05-2018,16:08:55,10,66641,Male,Web,Member,Home & Furniture,Beds,78,1,0.2,78,7.8,Medium,money_order
+18-11-2018,23:54:05,8,76136,Male,Web,Member,Home & Furniture,Dinning Tables,119,1,0.3,27.1,2.7,Medium,credit_card
+13-07-2018,10:35:01,3,66757,Male,Web,Member,Home & Furniture,Shoe Rack,124,1,0.2,41.5,4.2,Medium,credit_card
+12-03-2018,11:40:26,6,78185,Male,Web,Member,Home & Furniture,Umbrellas,70,3,0.2,23.3,2.3,Medium,credit_card
+28-09-2018,14:09:28,3,69276,Male,Web,Member,Home & Furniture,Dinner Crockery,133,3,0.2,45,4.5,Medium,money_order
+13-12-2018,08:42:43,4,71947,Male,Web,Member,Home & Furniture,Sofa Covers,216,3,0.2,129.5,13,Medium,credit_card
+17-08-2018,13:40:54,10,68479,Male,Web,Member,Home & Furniture,Bed Sheets,211,1,0.3,120.5,12,Medium,money_order
+30-01-2018,15:28:29,5,92617,Male,Web,Member,Home & Furniture,Curtains,34,3,0.2,11.3,1.1,Medium,money_order
+30-05-2018,10:27:56,5,66727,Male,Web,Member,Home & Furniture,Towels,228,1,0.3,134.3,13.4,Medium,credit_card
+05-12-2018,12:17:03,2,86929,Male,Web,Member,Home & Furniture,Sofas,67,3,0.3,22.3,2.2,Medium,credit_card
+25-02-2018,22:41:26,7,64793,Male,Web,Member,Home & Furniture,Beds,78,4,0.3,19.5,2,Medium,e_wallet
+09-03-2018,12:39:36,2,79784,Male,Web,Member,Home & Furniture,Dinning Tables,119,4,0.2,34.2,3.4,Low,credit_card
+08-07-2018,21:56:35,2,81875,Male,Web,Member,Home & Furniture,Shoe Rack,124,1,0.4,39,3.9,Medium,credit_card
+19-11-2018,11:28:30,10,93446,Male,Web,Member,Home & Furniture,Umbrellas,70,1,0.4,70,7,High,credit_card
+03-05-2018,17:24:06,4,96219,Male,Web,Member,Home & Furniture,Dinner Crockery,133,4,0.2,47.7,4.8,High,e_wallet
+11-09-2018,07:49:41,8,92218,Male,Web,Member,Home & Furniture,Sofa Covers,216,5,0.2,114.4,11.4,Medium,credit_card
+20-11-2018,16:19:21,9,64850,Male,Web,Member,Home & Furniture,Bed Sheets,211,3,0.2,118.3,11.8,High,credit_card
+15-11-2018,10:39:26,8,61668,Male,Web,Member,Home & Furniture,Curtains,34,5,0.2,6.8,0.7,Medium,money_order
+22-06-2018,12:01:23,5,91127,Male,Web,Member,Home & Furniture,Towels,228,5,0.3,91,9.1,Medium,money_order
+15-12-2018,13:34:45,1,98319,Male,Web,Member,Home & Furniture,Sofas,67,4,0.3,16.8,1.7,Medium,credit_card
+10-04-2018,08:27:56,10,79292,Male,Web,Member,Home & Furniture,Beds,78,5,0.4,15.6,1.6,Medium,credit_card
+25-10-2018,19:56:00,10,90133,Female,Mobile,Member,Home & Furniture,Dinning Tables,119,5,0.4,15.2,1.5,Medium,credit_card
+27-01-2018,05:10:43,9,87571,Male,Web,Member,Home & Furniture,Shoe Rack,124,1,0.3,36.6,3.7,Low,credit_card
+15-12-2018,17:33:05,3,89617,Female,Mobile,Member,Home & Furniture,Umbrellas,70,5,0.4,14,1.4,High,credit_card
+16-11-2018,15:19:27,7,74500,Male,Web,Member,Home & Furniture,Dinner Crockery,133,1,0.2,51.7,5.2,Medium,credit_card
+29-04-2018,21:11:12,3,93023,Male,Web,Member,Home & Furniture,Sofa Covers,216,1,0.2,133.8,13.4,Medium,credit_card
+17-03-2018,21:11:08,5,85413,Male,Web,Member,Home & Furniture,Bed Sheets,211,1,0.2,126.8,12.7,Medium,credit_card
+07-08-2018,13:56:36,1,74309,Male,Web,Member,Home & Furniture,Curtains,34,1,0.3,34,3.4,Medium,money_order
+05-11-2018,13:36:14,4,67140,Male,Web,Member,Home & Furniture,Towels,228,1,0.4,129.8,13,Medium,money_order
+28-12-2018,13:16:08,4,61374,Male,Web,Member,Home & Furniture,Sofas,67,3,0.2,22.3,2.2,Medium,credit_card
+04-03-2018,00:27:48,1,60222,Male,Web,Member,Home & Furniture,Beds,78,1,0.2,39,3.9,Medium,credit_card
+05-02-2018,08:05:20,3,63029,Male,Web,Member,Home & Furniture,Dinning Tables,119,3,0.4,24.7,2.5,Medium,credit_card
+17-06-2018,08:46:59,8,69908,Male,Web,Member,Home & Furniture,Shoe Rack,124,4,0.4,24.2,2.4,Medium,credit_card
+04-01-2018,12:47:40,2,94803,Male,Web,Member,Home & Furniture,Umbrellas,70,5,0.4,14,1.4,Medium,money_order
+25-07-2018,01:47:22,8,80818,Male,Web,Member,Home & Furniture,Dinner Crockery,133,3,0.2,49,4.9,Medium,credit_card
+12-07-2018,11:53:11,9,97846,Male,Web,Member,Home & Furniture,Sofa Covers,216,1,0.3,114.4,11.4,High,credit_card
+10-10-2018,20:30:08,10,68824,Male,Web,Member,Home & Furniture,Bed Sheets,211,4,0.4,97.2,9.7,Medium,credit_card
+30-12-2018,23:27:37,4,83100,Male,Web,Member,Home & Furniture,Curtains,34,4,0.3,8.5,0.9,Medium,credit_card
+15-07-2018,14:16:19,8,83200,Male,Web,Member,Home & Furniture,Towels,228,5,0.3,113.8,11.4,Medium,credit_card
+14-08-2018,22:22:23,4,84050,Male,Web,Member,Home & Furniture,Sofas,67,5,0.3,13.4,1.3,Medium,e_wallet
+14-06-2018,22:49:06,5,76657,Male,Web,Member,Home & Furniture,Beds,78,3,0.3,26,2.6,Medium,credit_card
+18-10-2018,18:19:17,3,72186,Male,Web,Member,Home & Furniture,Dinning Tables,119,4,0.3,24.7,2.5,Medium,money_order
+20-07-2018,09:58:18,10,93666,Female,Mobile,Member,Home & Furniture,Shoe Rack,124,4,0.2,39,3.9,Medium,credit_card
+19-12-2018,17:53:52,8,72734,Male,Web,Member,Home & Furniture,Umbrellas,70,3,0.2,23.3,2.3,Medium,money_order
+24-01-2018,22:10:39,10,92323,Male,Web,Member,Home & Furniture,Dinner Crockery,133,3,0.3,41,4.1,Medium,e_wallet
+12-08-2018,19:22:50,1,79199,Male,Web,Member,Home & Furniture,Sofa Covers,216,1,0.3,114.4,11.4,Medium,credit_card
+30-07-2018,19:00:05,10,82450,Male,Web,Member,Home & Furniture,Bed Sheets,211,1,0.3,120.5,12,Medium,credit_card
+14-05-2018,16:15:03,7,65140,Male,Web,Member,Home & Furniture,Curtains,34,3,0.4,11.3,1.1,Medium,credit_card
+13-04-2018,06:44:46,2,88793,Male,Web,Member,Home & Furniture,Towels,228,1,0.2,138.9,13.9,Medium,money_order
+03-07-2018,23:05:24,8,83433,Male,Web,Member,Home & Furniture,Sofas,67,1,0.2,67,6.7,Medium,e_wallet
+17-01-2018,22:39:08,6,72140,Male,Web,Member,Home & Furniture,Beds,78,5,0.3,15.6,1.6,Medium,credit_card
+17-09-2018,09:48:44,7,83254,Male,Web,Member,Home & Furniture,Dinning Tables,119,5,0.2,33.1,3.3,High,credit_card
+13-08-2018,14:37:04,1,88183,Male,Web,Member,Home & Furniture,Shoe Rack,124,1,0.3,37.8,3.8,Medium,credit_card
+26-06-2018,09:34:38,6,64426,Male,Web,Member,Home & Furniture,Umbrellas,70,1,0.2,70,7,Medium,credit_card
+22-12-2018,23:59:55,5,88391,Male,Web,Member,Home & Furniture,Dinner Crockery,133,1,0.2,50.3,5,Medium,credit_card
+04-09-2018,14:16:51,7,83510,Male,Web,Member,Home & Furniture,Sofa Covers,216,5,0.4,92.8,9.3,High,e_wallet
+24-11-2018,18:32:19,6,79066,Male,Web,Member,Home & Furniture,Bed Sheets,211,3,0.3,112,11.2,High,money_order
+03-12-2018,18:16:14,7,70407,Male,Web,Member,Home & Furniture,Curtains,34,1,0.3,17,1.7,Medium,credit_card
+20-01-2018,18:25:55,9,70193,Male,Web,Member,Home & Furniture,Towels,228,1,0.4,138.9,13.9,Medium,credit_card
+09-05-2018,11:53:08,7,74666,Male,Web,Member,Home & Furniture,Sofas,67,1,0.2,67,6.7,Medium,credit_card
+19-06-2018,13:39:35,2,79551,Male,Web,Member,Home & Furniture,Beds,78,5,0.2,15.6,1.6,Medium,money_order
+27-02-2018,07:26:22,10,97712,Male,Web,Member,Home & Furniture,Dinning Tables,119,1,0.3,33.1,3.3,Medium,credit_card
+12-09-2018,14:57:23,7,75419,Male,Web,Member,Home & Furniture,Shoe Rack,124,5,0.3,13,1.3,High,credit_card
+15-08-2018,17:42:51,7,61608,Male,Web,Member,Home & Furniture,Umbrellas,70,4,0.3,17.5,1.8,Medium,credit_card
+11-02-2018,16:05:10,2,69673,Male,Web,Member,Home & Furniture,Dinner Crockery,133,1,0.4,47.7,4.8,Medium,credit_card
+15-09-2018,23:28:23,8,79435,Male,Web,Member,Home & Furniture,Sofa Covers,216,1,0.4,118.7,11.9,Medium,credit_card
+07-05-2018,12:39:10,9,53248,Female,Web,Member,Fashion,Shirts,196,3,0.5,98.4,9.8,High,money_order
+24-04-2018,23:51:56,5,45946,Female,Web,Member,Fashion,Jeans,218,2,0.5,124.9,12.5,High,credit_card
+14-10-2018,15:39:33,3,29872,Male,Web,Member,Fashion,Suits,109,5,0.5,23.6,2.4,High,e_wallet
+25-06-2018,11:45:19,9,13517,Male,Web,Member,Fashion,Sports Wear,85,5,0.5,17,1.7,Critical,money_order
+24-04-2018,14:18:04,2,50796,Male,Web,Member,Fashion,Casula Shoes,122,3,0.4,27.4,2.7,High,credit_card
+18-08-2018,12:41:01,10,17741,Male,Web,Member,Fashion,Running Shoes,224,1,0.5,117.1,11.7,High,credit_card
+14-11-2018,15:45:12,2,53526,Male,Web,Member,Fashion,Formal Shoes,213,3,0.5,113.8,11.4,High,money_order
+17-08-2018,01:22:20,7,56048,Male,Web,Member,Fashion,Sneakers,62,2,0.4,31,3.1,High,money_order
+09-12-2018,00:37:23,6,40660,Male,Web,Member,Fashion,Titak watch,228,1,0.5,145.7,14.6,High,money_order
+29-06-2018,20:44:23,2,26633,Male,Web,Member,Fashion,Fossil Watch,159,1,0.5,77.4,7.7,Medium,money_order
+22-04-2018,20:40:31,1,42479,Male,Web,Member,Fashion,T - Shirts,248,5,0.4,143.2,14.3,High,credit_card
+09-10-2018,01:44:40,7,13850,Male,Web,Member,Fashion,Shirts,196,5,0.4,96.4,9.6,High,credit_card
+23-11-2018,14:18:28,10,11018,Male,Web,Member,Fashion,Jeans,218,5,0.5,105.3,10.5,Critical,credit_card
+16-07-2018,19:11:28,9,48394,Male,Web,Member,Fashion,Suits,109,2,0.4,20.3,2,High,credit_card
+30-07-2018,12:48:54,8,34215,Male,Web,Member,Fashion,Sports Wear,85,3,0.4,28.3,2.8,Medium,credit_card
+14-02-2018,20:27:07,9,50967,Male,Web,Member,Fashion,Casula Shoes,122,1,0.4,32.2,3.2,Critical,money_order
+14-11-2018,07:44:12,4,31483,Male,Web,Member,Fashion,Running Shoes,224,3,0.5,137.3,13.7,High,money_order
+16-02-2018,19:00:20,10,48567,Female,Web,Member,Fashion,Formal Shoes,213,1,0.5,122.4,12.2,Medium,credit_card
+27-08-2018,12:30:35,9,19776,Male,Web,Member,Fashion,Sneakers,62,1,0.5,62,6.2,Critical,credit_card
+14-05-2018,17:21:38,4,34465,Male,Web,Member,Fashion,Titak watch,228,3,0.4,120.6,12.1,High,credit_card
+27-05-2018,16:15:38,3,26208,Male,Web,Member,Fashion,Fossil Watch,159,1,0.5,71.1,7.1,Critical,credit_card
+03-01-2018,21:28:22,3,36564,Male,Web,Member,Fashion,T - Shirts,248,1,0.4,158.1,15.8,Medium,credit_card
+19-07-2018,09:22:39,1,56828,Male,Web,Member,Fashion,Shirts,196,1,0.5,114,11.4,Medium,money_order
+06-03-2018,19:02:05,4,23793,Female,Web,Member,Fashion,Jeans,218,1,0.5,111.8,11.2,Critical,credit_card
+19-01-2018,10:33:51,8,41427,Male,Web,Member,Fashion,Suits,109,3,0.5,12.7,1.3,Critical,credit_card
+23-03-2018,13:44:46,1,10653,Male,Web,Member,Fashion,Sports Wear,85,3,0.5,28.3,2.8,High,credit_card
+18-07-2018,19:01:54,8,32525,Male,Web,Member,Fashion,Casula Shoes,122,2,0.4,32.2,3.2,High,credit_card
+13-10-2018,12:22:32,4,29968,Male,Web,Member,Fashion,Running Shoes,224,1,0.4,126.1,12.6,High,money_order
+27-04-2018,14:53:37,1,21313,Female,Web,Member,Fashion,Formal Shoes,213,1,0.4,116,11.6,Critical,credit_card
+23-09-2018,18:02:49,10,20682,Male,Web,Member,Fashion,Sneakers,62,1,0.4,62,6.2,Medium,credit_card
+17-04-2018,19:53:32,1,16586,Male,Web,Member,Fashion,Titak watch,228,2,0.5,143.4,14.3,High,money_order
+18-08-2018,14:40:00,7,45096,Male,Web,Member,Fashion,Fossil Watch,159,1,0.5,72.6,7.3,High,credit_card
+08-06-2018,22:32:31,7,12713,Female,Web,Member,Fashion,T - Shirts,248,3,0.4,138.2,13.8,High,credit_card
+11-11-2018,18:11:14,9,47056,Male,Web,Member,Fashion,Shirts,196,3,0.5,110.1,11,High,credit_card
+14-02-2018,08:02:31,5,40084,Male,Web,Member,Fashion,Jeans,218,2,0.5,133.6,13.4,Critical,e_wallet
+28-05-2018,19:17:48,3,38067,Female,Web,Member,Fashion,Suits,109,5,0.5,12.7,1.3,Medium,credit_card
+29-12-2018,11:27:48,8,12872,Female,Web,Member,Fashion,Sports Wear,85,5,0.5,17,1.7,Medium,money_order
+26-04-2018,16:41:58,7,12635,Female,Web,Member,Fashion,Casula Shoes,122,1,0.5,37.1,3.7,High,debit_card
+06-09-2018,21:05:52,7,39749,Female,Web,Member,Fashion,Running Shoes,224,2,0.4,126.1,12.6,High,credit_card
+01-11-2018,21:16:43,3,50072,Male,Web,Member,Fashion,Formal Shoes,213,1,0.4,124.5,12.4,Medium,credit_card
+16-07-2018,18:21:13,2,25125,Male,Web,Member,Fashion,Sneakers,62,3,0.5,20.7,2.1,High,credit_card
+17-07-2018,17:57:28,4,51305,Male,Web,Member,Fashion,Titak watch,228,3,0.4,134.3,13.4,High,credit_card
+25-08-2018,20:41:55,10,52516,Male,Web,Member,Fashion,Fossil Watch,159,5,0.4,63.1,6.3,High,e_wallet
+09-06-2018,21:25:42,6,37542,Male,Web,Guest,Fashion,T - Shirts,248,3,0.5,160.6,16.1,High,credit_card
+24-08-2018,17:59:00,8,36368,Female,Web,Member,Fashion,Shirts,196,1,0.4,108.2,10.8,High,credit_card
+13-04-2018,11:43:43,5,38594,Male,Web,Member,Fashion,Jeans,218,5,0.5,83.5,8.4,Medium,credit_card
+01-01-2018,08:57:03,3,16003,Male,Web,Member,Fashion,Suits,109,1,0.4,24.6,2.5,Critical,credit_card
+22-12-2018,17:23:21,7,13198,Male,Web,Member,Fashion,Sports Wear,85,1,0.4,21.3,2.1,Medium,credit_card
+02-05-2018,07:08:01,10,11439,Male,Web,Member,Fashion,Casula Shoes,122,2,0.4,37.1,3.7,Medium,money_order
+22-01-2018,13:39:48,5,58553,Female,Web,Member,Fashion,Running Shoes,224,1,0.5,137.3,13.7,Critical,money_order
+16-05-2018,15:21:50,3,32198,Male,Web,Member,Fashion,Formal Shoes,213,1,0.4,98.9,9.9,Critical,e_wallet
+20-11-2018,18:55:21,7,53284,Male,Web,Member,Fashion,Sneakers,62,1,0.4,62,6.2,High,credit_card
+07-02-2018,21:52:13,10,49448,Male,Web,Member,Fashion,Titak watch,228,3,0.5,127.5,12.7,High,credit_card
+23-03-2018,13:37:52,8,39542,Male,Web,Member,Fashion,Fossil Watch,159,1,0.4,75.8,7.6,Critical,money_order
+22-03-2018,00:50:48,7,16358,Female,Web,Member,Fashion,T - Shirts,248,3,0.5,160.6,16.1,Medium,credit_card
+03-04-2018,00:18:41,7,39024,Male,Web,Member,Fashion,Shirts,196,2,0.5,112.1,11.2,Critical,credit_card
+07-05-2018,23:01:29,3,38109,Male,Web,Member,Fashion,Jeans,218,1,0.5,129.3,12.9,Medium,money_order
+12-12-2018,10:59:12,10,54766,Male,Web,Member,Fashion,Suits,109,2,0.5,22.5,2.2,Critical,money_order
+30-12-2018,09:47:28,5,32281,Male,Web,Member,Fashion,Sports Wear,85,1,0.4,21.3,2.1,High,credit_card
+01-11-2018,00:29:18,3,45817,Male,Web,Member,Fashion,Casula Shoes,122,5,0.5,35.9,3.6,Medium,credit_card
+22-02-2018,11:16:39,5,18204,Female,Web,Member,Fashion,Running Shoes,224,1,0.5,137.3,13.7,Critical,credit_card
+26-06-2018,13:47:09,9,32474,Male,Web,Member,Fashion,Formal Shoes,213,1,0.5,122.4,12.2,Medium,credit_card
+20-07-2018,17:46:35,7,57073,Male,Web,Member,Fashion,Sneakers,62,2,0.5,31,3.1,Medium,credit_card
+23-04-2018,21:49:37,5,59970,Male,Web,Member,Fashion,Titak watch,228,3,0.5,113.8,11.4,Medium,credit_card
+26-07-2018,17:49:11,2,39091,Male,Web,Member,Fashion,Fossil Watch,159,3,0.5,55.2,5.5,Medium,credit_card
+19-12-2018,19:37:39,9,25256,Male,Web,Member,Fashion,T - Shirts,248,3,0.5,145.7,14.6,High,credit_card
+03-03-2018,23:51:39,3,45858,Male,Web,Member,Fashion,Shirts,196,2,0.4,108.2,10.8,High,credit_card
+01-07-2018,09:34:04,5,26742,Male,Web,Member,Fashion,Jeans,218,1,0.5,111.8,11.2,Medium,credit_card
+25-09-2018,11:30:10,6,26286,Female,Web,Member,Fashion,Suits,109,5,0.5,1.8,0.2,High,credit_card
+15-09-2018,22:48:48,4,16465,Female,Web,Member,Fashion,Sports Wear,85,1,0.5,21.3,2.1,Medium,money_order
+20-11-2018,21:37:23,9,46821,Male,Web,Member,Fashion,Casula Shoes,122,1,0.5,17.6,1.8,Medium,money_order
+30-05-2018,19:37:02,1,20172,Female,Web,Member,Fashion,Running Shoes,224,1,0.4,126.1,12.6,Medium,credit_card
+05-02-2018,19:16:50,3,33872,Male,Web,Member,Fashion,Formal Shoes,213,3,0.4,107.4,10.7,Medium,credit_card
+28-04-2018,12:34:35,5,45430,Male,Web,Member,Fashion,Sneakers,62,2,0.4,31,3.1,Medium,credit_card
+10-11-2018,17:25:40,3,51351,Male,Web,Member,Fashion,Titak watch,228,1,0.4,143.4,14.3,High,credit_card
+25-10-2018,13:54:11,3,50924,Male,Web,Member,Fashion,Fossil Watch,159,1,0.5,59.9,6,Medium,money_order
+20-05-2018,14:26:45,2,53848,Male,Web,Member,Fashion,T - Shirts,248,1,0.5,158.1,15.8,Medium,credit_card
+10-12-2018,09:52:21,9,50040,Male,Web,Member,Fashion,Shirts,196,5,0.5,67,6.7,High,credit_card
+20-05-2018,17:07:44,4,50307,Male,Web,Member,Fashion,Jeans,218,3,0.5,118.4,11.8,Medium,credit_card
+04-12-2018,19:53:56,2,54221,Male,Web,Member,Fashion,Suits,109,1,0.4,20.3,2,High,credit_card
+27-12-2018,12:43:20,4,53722,Female,Web,Member,Fashion,Sports Wear,85,1,0.5,0.8,0.1,High,credit_card
+22-10-2018,12:06:16,7,53575,Female,Web,Member,Fashion,Casula Shoes,122,1,0.5,35.9,3.6,Medium,credit_card
+30-06-2018,09:49:33,8,31953,Male,Web,Member,Fashion,Running Shoes,224,1,0.4,135,13.5,High,credit_card
+25-07-2018,20:51:07,6,59219,Male,Web,Member,Fashion,Formal Shoes,213,3,0.5,101.1,10.1,High,credit_card
+03-08-2018,08:34:52,7,26133,Male,Web,Member,Fashion,Sneakers,62,1,0.5,62,6.2,High,credit_card
+16-05-2018,01:42:58,3,13024,Male,Web,Member,Fashion,Titak watch,228,1,0.5,120.6,12.1,Medium,credit_card
+07-05-2018,14:21:03,1,43561,Male,Web,Member,Fashion,Fossil Watch,159,5,0.4,47.2,4.7,High,credit_card
+06-05-2018,14:12:27,10,58438,Male,Web,Member,Fashion,T - Shirts,248,2,0.5,153.1,15.3,High,money_order
+04-07-2018,19:19:21,5,19526,Male,Web,Member,Fashion,Shirts,196,3,0.5,86.6,8.7,Critical,money_order
+17-11-2018,22:02:13,6,35822,Male,Web,Member,Fashion,Jeans,218,5,0.4,116.2,11.6,High,money_order
+07-07-2018,08:46:56,1,25158,Male,Web,Member,Fashion,Suits,109,5,0.5,1.8,0.2,High,credit_card
+06-04-2018,14:17:00,2,19500,Male,Web,Member,Fashion,Sports Wear,85,3,0.4,28.3,2.8,High,credit_card
+15-06-2018,12:36:28,1,35288,Female,Web,Member,Fashion,Casula Shoes,122,2,0.5,29.8,3,High,credit_card
+12-12-2018,11:55:42,6,37489,Male,Web,Member,Fashion,Running Shoes,224,2,0.5,121.6,12.2,High,credit_card
+10-07-2018,16:31:45,8,44951,Male,Web,Member,Fashion,Formal Shoes,213,1,0.5,126.6,12.7,High,money_order
+08-05-2018,20:28:49,8,20924,Male,Web,Member,Fashion,Sneakers,62,5,0.5,12.4,1.2,Medium,credit_card
+06-07-2018,14:51:37,8,30645,Male,Web,Member,Fashion,Titak watch,228,2,0.5,134.3,13.4,Critical,credit_card
+13-12-2018,21:15:56,7,46391,Male,Web,Member,Fashion,Fossil Watch,159,1,0.4,53.6,5.4,High,money_order
+05-09-2018,17:27:01,1,43539,Female,Web,Member,Fashion,T - Shirts,248,3,0.4,153.1,15.3,High,e_wallet
+12-11-2018,16:08:03,1,25050,Male,Web,Member,Fashion,Shirts,196,3,0.4,104.2,10.4,Medium,credit_card
+18-08-2018,11:02:12,8,11571,Female,Web,Member,Fashion,Jeans,218,1,0.5,127.1,12.7,Critical,credit_card
+10-07-2018,12:19:44,4,51952,Male,Web,Member,Electronic,Tablet,199,1,0.1,113,11.3,Medium,credit_card
+08-06-2018,12:54:10,1,52939,Female,Web,Member,Electronic,Mouse,111,1,0.2,3.3,0.3,High,credit_card
+03-07-2018,19:27:58,10,45013,Male,Web,Member,Electronic,Keyboard,33,1,0.2,6.6,0.7,Critical,money_order
+21-09-2018,14:48:58,2,12304,Male,Web,Member,Electronic,Apple Laptop,250,2,0.1,165,16.5,High,credit_card
+16-03-2018,12:04:31,9,22526,Female,Web,Member,Electronic,Mixer/Juicer,83,2,0.2,41.5,4.2,High,money_order
+16-12-2018,10:14:09,4,17993,Male,Web,Member,Electronic,LED,192,1,0.1,102.4,10.2,Medium,credit_card
+03-01-2018,13:49:56,6,41955,Male,Web,Member,Electronic,LCD,65,2,0.2,32.5,3.3,High,credit_card
+02-10-2018,12:20:29,4,46468,Female,Web,Member,Electronic,Speakers,130,1,0.2,44.8,4.5,Medium,credit_card
+30-05-2018,19:07:22,9,48162,Male,Web,Member,Electronic,Samsung Mobile,220,2,0.2,118,11.8,High,credit_card
+27-08-2018,16:36:39,1,47560,Female,Web,Member,Electronic,Watch,104,1,0.1,8.4,0.8,High,credit_card
+11-03-2018,13:47:29,6,45393,Female,Web,Member,Electronic,Fans,149,1,0.1,67.5,6.8,High,money_order
+21-10-2018,22:16:40,4,32058,Female,Web,Member,Electronic,Iron,222,1,0.1,139.8,14,Medium,credit_card
+24-05-2018,11:02:12,1,36195,Female,Web,Member,Electronic,Tablet,199,4,0.2,79.2,7.9,Medium,money_order
+05-09-2018,15:59:54,10,28445,Female,Web,Member,Electronic,Mouse,111,3,0.2,14.4,1.4,Medium,credit_card
+18-05-2018,02:07:42,6,16728,Male,Web,Member,Electronic,Keyboard,33,2,0.1,16.5,1.7,Medium,credit_card
+11-03-2018,17:06:48,5,50335,Male,Web,Member,Electronic,Apple Laptop,250,2,0.2,160,16,Medium,credit_card
+14-09-2018,23:45:31,1,32161,Female,Web,Member,Electronic,Mixer/Juicer,83,3,0.2,27.7,2.8,High,credit_card
+20-07-2018,17:40:32,9,27612,Female,Web,Member,Electronic,LED,192,1,0.2,92.8,9.3,High,e_wallet
+11-10-2018,16:22:58,4,56969,Male,Web,Member,Electronic,LCD,65,4,0.2,16.3,1.6,High,money_order
+30-06-2018,16:32:42,1,34287,Female,Web,Member,Electronic,Speakers,130,1,0.2,37,3.7,High,debit_card
+25-04-2018,18:33:35,9,14142,Male,Web,Member,Electronic,Samsung Mobile,220,1,0.2,85,8.5,Medium,money_order
+22-10-2018,13:29:32,7,26377,Female,Web,Member,Electronic,Watch,104,3,0.1,20.9,2.1,Medium,credit_card
+25-06-2018,18:04:52,2,35458,Female,Web,Member,Electronic,Fans,149,1,0.1,46.7,4.7,Medium,credit_card
+22-07-2018,20:00:50,8,23596,Female,Web,Member,Electronic,Iron,222,4,0.1,115.4,11.5,High,credit_card
+25-06-2018,18:43:52,10,10987,Female,Web,First SignUp,Electronic,Tablet,199,1,0.2,111,11.1,Medium,credit_card
+23-11-2018,12:12:07,2,38481,Female,Web,Member,Electronic,Mouse,111,1,0.1,29.9,3,Medium,credit_card
+21-09-2018,09:36:56,1,49383,Female,Web,Member,Electronic,Keyboard,33,3,0.1,11,1.1,Medium,credit_card
+07-05-2018,13:44:46,2,36201,Female,Web,Member,Electronic,Apple Laptop,250,3,0.1,162.5,16.3,High,money_order
+30-06-2018,18:06:42,1,42418,Female,Web,Member,Electronic,Mixer/Juicer,83,1,0.1,2.2,0.2,High,credit_card
+15-12-2018,08:16:56,7,50295,Female,Web,Member,Electronic,LED,192,1,0.2,102.4,10.2,Medium,credit_card
+11-06-2018,16:28:08,9,11135,Male,Web,Member,Electronic,LCD,65,3,0.2,21.7,2.2,Critical,credit_card
+22-12-2018,07:34:13,4,37322,Female,Web,Member,Electronic,Speakers,130,4,0.2,39.6,4,Medium,credit_card
+05-11-2018,17:34:26,3,32131,Female,Web,Member,Electronic,Samsung Mobile,220,1,0.1,107,10.7,Medium,credit_card
+01-11-2018,12:49:50,7,39661,Female,Web,Member,Electronic,Watch,104,1,0.1,20.9,2.1,High,credit_card
+09-08-2018,22:54:54,9,26942,Female,Web,Member,Electronic,Fans,149,1,0.2,63,6.3,High,money_order
+07-05-2018,18:04:34,10,52508,Male,Web,Member,Electronic,Iron,222,1,0.1,135.3,13.5,High,credit_card
+06-05-2018,15:11:26,4,31967,Male,Web,Member,Electronic,Tablet,199,1,0.1,89.2,8.9,Medium,credit_card
+25-04-2018,20:31:35,7,22739,Male,Web,Member,Electronic,Mouse,111,4,0.2,8.8,0.9,Medium,credit_card
+29-07-2018,14:10:13,8,48016,Male,Web,Member,Electronic,Keyboard,33,1,0.2,33,3.3,Critical,credit_card
+24-05-2018,23:23:56,6,19285,Male,Web,Member,Electronic,Apple Laptop,250,4,0.1,160,16,High,credit_card
+13-11-2018,15:16:07,3,56993,Female,Web,Member,Electronic,Mixer/Juicer,83,1,0.2,16.6,1.7,Medium,credit_card
+07-05-2018,20:36:52,10,38929,Male,Web,Member,Electronic,LED,192,1,0.2,73.6,7.4,Medium,money_order
+11-05-2018,20:45:35,3,29612,Female,Web,Member,Electronic,LCD,65,4,0.1,16.3,1.6,High,debit_card
+26-04-2018,18:17:55,6,28603,Female,Web,Member,Electronic,Speakers,130,4,0.2,29.2,2.9,High,credit_card
+12-09-2018,23:36:53,8,13014,Male,Web,Member,Electronic,Samsung Mobile,220,2,0.1,126.8,12.7,Medium,money_order
+14-05-2018,13:51:10,8,14130,Male,Web,Member,Electronic,Watch,104,2,0.1,21.9,2.2,High,credit_card
+28-03-2018,17:01:06,7,11679,Male,Web,Member,Electronic,Fans,149,1,0.2,39.2,3.9,Medium,credit_card
+06-09-2018,17:19:53,1,37825,Male,Web,Member,Electronic,Iron,222,3,0.1,135.3,13.5,Critical,credit_card
+24-12-2018,16:48:47,7,50342,Male,Web,Member,Electronic,Tablet,199,2,0.2,111,11.1,High,credit_card
+22-10-2018,11:48:30,2,38735,Male,Web,Member,Electronic,Mouse,111,1,0.2,8.8,0.9,Critical,credit_card
+23-09-2018,18:21:44,4,52660,Female,Web,Member,Electronic,Keyboard,33,1,0.1,33,3.3,Medium,credit_card
+18-07-2018,20:02:29,4,46863,Female,Web,Member,Electronic,Apple Laptop,250,2,0.2,145,14.5,Medium,credit_card
+15-10-2018,20:36:01,10,15764,Female,Web,Member,Electronic,Mixer/Juicer,83,4,0.1,20.8,2.1,High,credit_card
+14-11-2018,14:17:58,5,19133,Female,Web,Member,Electronic,LED,192,1,0.1,83.2,8.3,Critical,credit_card
+19-03-2018,16:39:09,2,47059,Male,Web,Member,Electronic,LCD,65,1,0.2,65,6.5,High,credit_card
+01-05-2018,18:56:48,6,54606,Female,Web,Member,Electronic,Speakers,130,2,0.2,39.6,4,Medium,credit_card
+13-05-2018,20:52:14,1,58013,Female,Web,Member,Electronic,Samsung Mobile,220,3,0.2,126.8,12.7,Critical,credit_card
+02-03-2018,21:18:36,5,31984,Male,Web,Member,Electronic,Watch,104,3,0.2,8.4,0.8,Medium,credit_card
+10-10-2018,14:28:44,1,30733,Male,Web,Member,Electronic,Fans,149,1,0.2,31.8,3.2,Medium,credit_card
+21-03-2018,08:46:01,2,31276,Male,Web,Member,Electronic,Iron,222,2,0.2,124.2,12.4,Medium,credit_card
+25-09-2018,10:13:08,4,33244,Male,Web,Member,Electronic,Tablet,199,1,0.1,113,11.3,Medium,credit_card
+19-02-2018,23:06:49,1,43129,Female,Web,Member,Electronic,Mouse,111,1,0.2,25.5,2.5,Medium,money_order
+08-11-2018,11:55:41,6,24961,Female,Web,Member,Electronic,Keyboard,33,1,0.2,33,3.3,High,credit_card
+08-01-2018,16:05:13,6,26346,Male,Web,Member,Electronic,Apple Laptop,250,1,0.1,167.5,16.8,Medium,credit_card
+27-04-2018,13:24:07,10,59952,Male,Web,Member,Electronic,Mixer/Juicer,83,1,0.1,2.2,0.2,Medium,credit_card
+23-07-2018,17:47:17,10,55775,Female,Web,Member,Electronic,LED,192,1,0.2,73.6,7.4,Medium,money_order
+25-07-2018,13:06:45,4,53992,Male,Web,Member,Electronic,LCD,65,1,0.2,13,1.3,High,credit_card
+13-02-2018,21:37:44,4,17235,Female,Web,Member,Electronic,Speakers,130,4,0.1,44.8,4.5,High,credit_card
+18-02-2018,08:34:17,9,53160,Female,Web,Member,Electronic,Samsung Mobile,220,1,0.2,135.6,13.6,Medium,credit_card
+20-07-2018,16:26:29,9,35603,Female,Web,Member,Electronic,Watch,104,4,0.1,11.5,1.2,High,credit_card
+11-06-2018,16:54:49,3,39256,Female,Web,Member,Electronic,Fans,149,3,0.2,60.1,6,Medium,credit_card
+28-04-2018,11:29:31,9,39887,Female,Web,Member,Electronic,Iron,222,2,0.2,124.2,12.4,High,money_order
+30-07-2018,20:03:16,3,29833,Female,Web,Member,Electronic,Tablet,199,4,0.2,103.1,10.3,Medium,credit_card
+25-06-2018,22:29:15,8,25005,Female,Web,Member,Electronic,Mouse,111,4,0.2,13.2,1.3,Medium,credit_card
+18-08-2018,17:37:05,3,50753,Female,Web,Member,Electronic,Keyboard,33,1,0.1,33,3.3,High,money_order
+11-03-2018,15:00:43,7,31863,Female,Web,Member,Electronic,Apple Laptop,250,1,0.2,160,16,High,credit_card
+28-05-2018,14:17:55,8,15265,Male,Web,Member,Electronic,Mixer/Juicer,83,1,0.2,16.6,1.7,Medium,credit_card
+02-10-2018,12:40:57,2,57557,Male,Web,Member,Electronic,LED,192,1,0.2,108.2,10.8,Medium,credit_card
+23-04-2018,23:28:31,10,10524,Female,Web,Member,Electronic,LCD,65,1,0.2,65,6.5,Medium,credit_card
+08-08-2018,09:35:22,1,49064,Female,Web,Member,Electronic,Speakers,130,1,0.2,17.5,1.8,Medium,credit_card
+14-06-2018,18:08:10,4,25684,Female,Web,Member,Electronic,Samsung Mobile,220,1,0.2,118,11.8,Medium,credit_card
+03-11-2018,00:26:04,8,39790,Female,Web,Member,Electronic,Watch,104,2,0.1,17.8,1.8,High,money_order
+07-08-2018,14:39:58,4,38579,Female,Web,Member,Electronic,Fans,149,4,0.2,57.1,5.7,High,credit_card
+30-09-2018,22:23:53,10,26151,Female,Web,Member,Electronic,Iron,222,2,0.2,124.2,12.4,High,credit_card
+20-08-2018,13:02:25,3,14695,Female,Web,Member,Electronic,Tablet,199,3,0.2,107.1,10.7,Medium,credit_card
+17-05-2018,22:30:34,3,44815,Male,Web,Member,Electronic,Mouse,111,1,0.1,27.7,2.8,Medium,money_order
+20-11-2018,08:38:36,6,46781,Male,Web,Member,Electronic,Keyboard,33,3,0.1,11,1.1,High,credit_card
+05-01-2018,17:05:00,6,17493,Female,Web,Member,Electronic,Apple Laptop,250,4,0.1,140,14,Medium,money_order
+06-07-2018,00:17:31,7,42896,Male,Web,Member,Electronic,Mixer/Juicer,83,1,0.1,2.2,0.2,Medium,credit_card
+19-08-2018,15:02:50,3,29069,Female,Web,Member,Electronic,LED,192,1,0.1,106.2,10.6,Critical,money_order
+22-03-2018,10:37:38,2,10685,Female,Web,Member,Electronic,LCD,65,3,0.2,21.7,2.2,High,credit_card
+27-12-2018,11:24:45,6,11674,Female,Web,Member,Electronic,Speakers,130,1,0.2,37,3.7,Medium,credit_card
+06-01-2018,14:03:19,5,54677,Male,Web,Member,Electronic,Samsung Mobile,220,4,0.1,131.2,13.1,Medium,credit_card
+10-04-2018,12:12:10,6,54339,Female,Web,Member,Electronic,Watch,104,1,0.1,18.8,1.9,High,credit_card
+20-08-2018,22:26:30,10,10002,Male,Web,Member,Electronic,Fans,149,2,0.1,66,6.6,Critical,credit_card
+08-08-2018,20:53:54,3,24799,Female,Web,Member,Electronic,Iron,222,2,0.1,128.7,12.9,Medium,credit_card
+22-05-2018,18:54:48,8,53543,Female,Web,Member,Electronic,Tablet,199,3,0.2,89.2,8.9,Medium,credit_card
+30-11-2018,15:22:51,9,15702,Female,Web,Member,Electronic,Mouse,111,3,0.2,14.4,1.4,High,credit_card
+25-05-2018,23:05:27,10,47655,Male,Web,Member,Fashion,Fossil Watch,159,1,0.5,47.2,4.7,High,credit_card
+09-07-2018,21:08:20,9,55915,Male,Web,Member,Fashion,T - Shirts,248,1,0.4,163,16.3,Medium,credit_card
+25-10-2018,21:33:03,2,13315,Female,Web,Member,Fashion,Shirts,196,1,0.5,76.8,7.7,Medium,credit_card
+25-01-2018,13:44:05,6,42194,Male,Web,Member,Fashion,Jeans,218,1,0.5,129.3,12.9,Medium,credit_card
+28-12-2018,14:17:43,4,47441,Male,Web,Member,Fashion,Suits,109,3,0.5,25.7,2.6,Critical,credit_card
+24-09-2018,15:55:40,9,36575,Male,Web,Member,Fashion,Sports Wear,85,3,0.5,2.5,0.2,High,e_wallet
+08-09-2018,11:23:06,5,56977,Female,Web,Member,Fashion,Casula Shoes,122,1,0.5,38.3,3.8,Critical,debit_card
+20-02-2018,18:34:24,1,14686,Female,Web,Member,Fashion,Running Shoes,224,3,0.5,110.4,11,Critical,money_order
+11-05-2018,16:15:55,8,24057,Male,Web,Member,Fashion,Formal Shoes,213,1,0.5,122.4,12.2,High,credit_card
+09-05-2018,22:14:40,2,42326,Male,Web,Member,Fashion,Sneakers,62,5,0.4,12.4,1.2,High,money_order
+11-05-2018,21:59:22,4,29458,Male,Web,Member,Fashion,Titak watch,228,2,0.5,134.3,13.4,High,money_order
+24-04-2018,10:42:23,2,39023,Male,Web,Member,Fashion,Fossil Watch,159,2,0.5,75.8,7.6,Medium,credit_card
+09-07-2018,16:34:23,2,17856,Male,Web,Member,Fashion,T - Shirts,248,3,0.5,160.6,16.1,Medium,credit_card
+21-12-2018,13:04:09,4,20010,Female,Web,Member,Fashion,Shirts,196,3,0.5,110.1,11,High,money_order
+05-03-2018,09:51:38,7,51841,Female,Web,Member,Fashion,Jeans,218,1,0.5,127.1,12.7,Critical,credit_card
+03-11-2018,07:39:47,4,28240,Male,Web,Member,Fashion,Suits,109,1,0.5,7.2,0.7,Critical,credit_card
+25-04-2018,22:02:58,1,58225,Female,Web,Member,Fashion,Sports Wear,85,3,0.4,28.3,2.8,Medium,money_order
+11-10-2018,11:31:17,9,20838,Male,Web,Member,Fashion,Casula Shoes,122,5,0.4,29.8,3,High,money_order
+17-08-2018,11:16:54,5,58246,Male,Web,Member,Fashion,Running Shoes,224,1,0.5,132.8,13.3,Medium,credit_card
+01-02-2018,00:18:40,4,18547,Female,Web,Member,Fashion,Formal Shoes,213,1,0.5,124.5,12.4,High,credit_card
+29-10-2018,06:53:08,10,53325,Male,Web,Member,Fashion,Sneakers,62,1,0.4,62,6.2,High,money_order
+02-12-2018,14:16:43,1,38810,Male,Web,Member,Fashion,Titak watch,228,5,0.5,136.6,13.7,Medium,credit_card
+09-06-2018,18:30:27,8,15799,Female,Web,Member,Fashion,Fossil Watch,159,3,0.5,74.2,7.4,Critical,credit_card
+01-09-2018,14:44:33,5,19163,Male,Web,Member,Fashion,T - Shirts,248,2,0.4,148.2,14.8,Medium,credit_card
+11-09-2018,10:45:08,7,34898,Male,Web,Member,Fashion,Shirts,196,1,0.5,106.2,10.6,High,credit_card
+28-12-2018,12:37:51,3,52193,Female,Web,Member,Fashion,Jeans,218,3,0.5,118.4,11.8,High,credit_card
+12-07-2018,17:59:14,7,54915,Male,Web,Member,Fashion,Suits,109,1,0.5,7.2,0.7,Medium,credit_card
+05-04-2018,18:34:14,2,18336,Male,Web,Member,Fashion,Sports Wear,85,1,0.4,21.3,2.1,High,credit_card
+12-08-2018,07:28:18,7,59359,Male,Web,Member,Fashion,Casula Shoes,122,2,0.5,34.7,3.5,Medium,credit_card
+16-05-2018,13:08:01,4,14638,Male,Web,Member,Fashion,Running Shoes,224,5,0.5,110.4,11,High,credit_card
+11-07-2018,10:37:24,9,25198,Male,Web,Member,Fashion,Formal Shoes,213,5,0.4,90.4,9,Medium,credit_card
+05-05-2018,11:11:25,1,39577,Male,Web,Member,Fashion,Sneakers,62,1,0.5,62,6.2,Critical,credit_card
+07-08-2018,14:16:13,9,20047,Male,Web,Member,Fashion,Titak watch,228,1,0.5,141.2,14.1,Medium,credit_card
+26-05-2018,09:19:13,8,44777,Male,Web,Member,Fashion,Fossil Watch,159,3,0.4,59.9,6,High,credit_card
+08-06-2018,20:16:33,2,48681,Male,Web,Member,Fashion,T - Shirts,248,1,0.5,165.5,16.6,Medium,credit_card
+30-11-2018,20:47:58,5,53815,Male,Web,Member,Fashion,Shirts,196,5,0.4,76.8,7.7,Medium,credit_card
+29-09-2018,17:19:05,10,21156,Male,Web,Member,Fashion,Jeans,218,5,0.4,94.4,9.4,Critical,credit_card
+06-05-2018,21:09:38,5,16704,Male,Web,Member,Fashion,Suits,109,1,0.5,15.9,1.6,High,credit_card
+24-09-2018,18:40:22,7,13937,Male,Web,Member,Fashion,Sports Wear,85,3,0.4,28.3,2.8,Critical,credit_card
+24-06-2018,22:46:55,10,28022,Male,Web,Member,Fashion,Casula Shoes,122,2,0.4,37.1,3.7,High,debit_card
+12-01-2018,19:00:46,1,42480,Male,Web,Member,Fashion,Running Shoes,224,1,0.5,132.8,13.3,Medium,credit_card
+24-08-2018,17:49:16,2,30307,Male,Web,Member,Fashion,Formal Shoes,213,5,0.4,111.7,11.2,High,money_order
+02-01-2018,21:11:56,9,58610,Male,Web,Member,Fashion,Sneakers,62,3,0.4,20.7,2.1,Critical,credit_card
+06-02-2018,13:08:36,4,46649,Male,Web,Member,Fashion,Titak watch,228,5,0.5,113.8,11.4,High,credit_card
+13-04-2018,21:29:03,6,44705,Male,Web,Member,Fashion,Fossil Watch,159,2,0.4,72.6,7.3,Medium,credit_card
+24-05-2018,21:02:39,9,44045,Male,Web,Member,Fashion,T - Shirts,248,3,0.5,160.6,16.1,High,credit_card
+12-11-2018,17:08:45,1,55885,Female,Web,Member,Fashion,Shirts,196,2,0.5,112.1,11.2,High,money_order
+24-06-2018,17:53:23,10,26739,Female,Web,Member,Fashion,Jeans,218,1,0.5,131.5,13.1,High,credit_card
+17-12-2018,15:49:23,5,56816,Male,Web,Member,Fashion,Suits,109,5,0.5,23.6,2.4,Medium,credit_card
+05-03-2018,10:29:44,9,10790,Male,Web,Member,Fashion,Sports Wear,85,1,0.5,4.2,0.4,High,money_order
+21-11-2018,12:52:36,8,51741,Male,Web,Member,Fashion,Casula Shoes,122,1,0.5,27.4,2.7,High,credit_card
+27-09-2018,01:10:50,6,50062,Male,Web,Member,Fashion,Running Shoes,224,3,0.5,123.8,12.4,High,money_order
+04-07-2018,12:51:22,1,16272,Male,Web,Member,Fashion,Formal Shoes,213,1,0.4,116,11.6,High,credit_card
+25-10-2018,07:38:14,7,54366,Male,Web,Member,Fashion,Sneakers,62,1,0.5,62,6.2,High,credit_card
+30-09-2018,21:19:21,6,42542,Male,Web,Member,Fashion,Titak watch,228,5,0.5,113.8,11.4,Medium,credit_card
+26-04-2018,23:47:31,7,12046,Male,Web,Member,Fashion,Fossil Watch,159,1,0.5,59.9,6,High,credit_card
+28-10-2018,21:05:58,7,56037,Male,Web,Member,Fashion,T - Shirts,248,1,0.5,118.4,11.8,High,credit_card
+09-05-2018,10:54:34,4,27902,Male,Web,Member,Auto & Accessories,Car Speakers,211,1,0.1,128.9,12.9,High,credit_card
+14-08-2018,23:07:34,8,32353,Female,Web,Member,Auto & Accessories,Car Body Covers,117,2,0.2,25.3,2.5,Medium,credit_card
+11-11-2018,15:37:03,1,56997,Female,Web,Guest,Auto & Accessories,Car & Bike Care,118,2,0.2,28.6,2.9,High,credit_card
+01-12-2018,11:27:43,2,35985,Female,Web,Member,Auto & Accessories,Tyre,250,2,0.2,160,16,High,credit_card
+10-03-2018,15:58:03,3,49822,Female,Web,Member,Auto & Accessories,Bike Tyres,72,3,0.2,24,2.4,High,money_order
+02-11-2018,17:59:47,3,27622,Female,Web,Member,Auto & Accessories,Car Seat Covers,114,2,0.2,29.4,2.9,High,credit_card
+22-04-2018,18:22:40,8,30058,Female,Web,First SignUp,Auto & Accessories,Car Pillow & Neck Rest,231,2,0.1,137.1,13.7,Medium,credit_card
+03-04-2018,12:49:57,5,18541,Male,Web,Member,Auto & Accessories,Car Media Players,140,2,0.1,51.6,5.2,Medium,credit_card
+27-06-2018,09:33:01,2,22838,Female,Web,Member,Auto & Accessories,Car Speakers,211,3,0.2,118.3,11.8,Medium,money_order
+30-06-2018,08:44:00,2,35929,Female,Web,Member,Auto & Accessories,Car Body Covers,117,3,0.2,19.5,1.9,Medium,credit_card
+19-06-2018,22:07:47,3,17685,Female,Web,Member,Auto & Accessories,Car & Bike Care,118,3,0.2,30.9,3.1,Medium,money_order
+23-09-2018,18:41:07,8,37424,Male,Web,Member,Auto & Accessories,Tyre,250,4,0.1,140,14,Medium,credit_card
+10-12-2018,21:46:27,8,51516,Male,Web,Member,Auto & Accessories,Bike Tyres,72,2,0.2,36,3.6,High,credit_card
+01-11-2018,21:33:33,2,15290,Male,Web,Member,Auto & Accessories,Car Mat,54,1,0.2,10.8,1.1,Critical,credit_card
+22-05-2018,17:57:02,5,15932,Female,Web,Member,Auto & Accessories,Car Seat Covers,114,4,0.1,29.4,2.9,Medium,credit_card
+17-07-2018,23:29:45,5,51319,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231,3,0.1,130.2,13,Medium,credit_card
+09-07-2018,14:26:05,6,54565,Male,Web,Member,Auto & Accessories,Car Media Players,140,2,0.1,57.2,5.7,Medium,credit_card
+17-10-2018,15:15:45,4,14187,Male,Web,Member,Auto & Accessories,Car Speakers,211,1,0.1,99.4,9.9,High,credit_card
+16-08-2018,08:43:14,10,48465,Male,Web,Member,Auto & Accessories,Car Body Covers,117,3,0.1,33.5,3.3,Medium,money_order
+18-09-2018,12:46:02,7,11672,Male,Web,Member,Auto & Accessories,Car & Bike Care,118,1,0.2,35.6,3.6,Medium,credit_card
+13-12-2018,21:53:51,1,19216,Female,Web,Member,Auto & Accessories,Tyre,250,2,0.2,145,14.5,Medium,money_order
+24-05-2018,10:08:31,8,30909,Female,Web,Member,Auto & Accessories,Bike Tyres,72,1,0.1,72,7.2,Medium,credit_card
+26-04-2018,10:44:15,5,22636,Female,Web,Member,Auto & Accessories,Car Mat,54,3,0.2,18,1.8,High,credit_card
+26-08-2018,14:57:41,10,23865,Female,Web,Member,Auto & Accessories,Car Seat Covers,114,3,0.2,27.2,2.7,High,credit_card
+01-10-2018,17:19:26,4,56898,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231,2,0.1,137.1,13.7,High,credit_card
+08-05-2018,14:32:46,1,46593,Male,Web,Member,Auto & Accessories,Car Media Players,140,1,0.1,58.6,5.9,Critical,credit_card
+29-06-2018,16:16:46,6,58953,Female,Web,Member,Auto & Accessories,Car Speakers,211,1,0.1,120.5,12,Medium,credit_card
+08-10-2018,12:06:05,1,31385,Male,Web,Member,Auto & Accessories,Car Body Covers,117,1,0.2,31.2,3.1,Critical,credit_card
+16-10-2018,22:09:12,10,55320,Female,Web,Member,Auto & Accessories,Car & Bike Care,118,2,0.2,33.3,3.3,Critical,credit_card
+19-07-2018,16:16:23,5,19829,Female,Web,Member,Auto & Accessories,Tyre,250,1,0.2,160,16,Medium,credit_card
+29-09-2018,10:53:11,7,26153,Male,Web,Member,Auto & Accessories,Bike Tyres,72,1,0.1,72,7.2,Medium,credit_card
+08-07-2018,02:22:18,10,19587,Female,Web,Member,Auto & Accessories,Car Mat,54,2,0.1,27,2.7,Medium,credit_card
+17-06-2018,18:24:14,5,33570,Male,Web,Member,Auto & Accessories,Car Seat Covers,114,4,0.2,11.2,1.1,Medium,credit_card
+03-09-2018,17:23:52,8,24623,Female,Web,Guest,Auto & Accessories,Car Pillow & Neck Rest,231,1,0.2,139.5,13.9,Medium,money_order
+06-11-2018,22:08:05,5,57752,Female,Web,Member,Auto & Accessories,Car Media Players,140,3,0.1,47.4,4.7,Medium,credit_card
+01-08-2018,17:43:27,2,57105,Female,Web,Member,Auto & Accessories,Car Speakers,211,2,0.2,114.1,11.4,Medium,credit_card
+29-09-2018,19:43:56,4,47469,Male,Web,Member,Auto & Accessories,Car Body Covers,117,3,0.2,23,2.3,Medium,credit_card
+21-12-2018,20:36:49,5,59639,Female,Web,Guest,Auto & Accessories,Car & Bike Care,118,3,0.1,27.4,2.7,Medium,credit_card
+06-12-2018,11:43:41,10,36204,Female,Web,Member,Auto & Accessories,Tyre,250,3,0.1,162.5,16.3,High,credit_card
+04-09-2018,19:26:58,7,15592,Female,Web,Member,Auto & Accessories,Bike Tyres,72,1,0.2,14.4,1.4,High,credit_card
+22-08-2018,15:21:53,10,14382,Male,Web,Member,Auto & Accessories,Car Mat,54,1,0.2,10.8,1.1,High,credit_card
+25-11-2018,17:37:28,6,42243,Male,Web,Member,Auto & Accessories,Car Seat Covers,114,2,0.1,31.7,3.2,Medium,credit_card
+30-06-2018,19:15:23,2,47165,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231,1,0.2,93.3,9.3,Medium,credit_card
+04-07-2018,12:11:44,3,47774,Male,Web,Guest,Auto & Accessories,Car Media Players,140,1,0.2,32,3.2,High,money_order
+14-02-2018,18:07:33,7,44775,Male,Web,Member,Auto & Accessories,Car Speakers,211,3,0.2,99.4,9.9,Medium,credit_card
+04-04-2018,16:29:23,4,14810,Female,Web,Guest,Auto & Accessories,Car Seat Covers,114,4,0.2,24.9,2.5,Medium,credit_card
+20-08-2018,10:34:07,10,44146,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231,4,0.2,104.8,10.5,Critical,credit_card
+21-10-2018,00:30:40,5,49870,Female,Web,Member,Auto & Accessories,Car Media Players,140,3,0.2,51.6,5.2,Critical,credit_card
+06-12-2018,21:20:46,5,74727,Male,Web,Member,Home & Furniture,Beds,78,3,0.2,26,2.6,High,money_order
+10-11-2018,15:08:54,8,92027,Male,Web,Member,Home & Furniture,Dinning Tables,119,5,0.2,33.1,3.3,Medium,credit_card
+03-05-2018,08:42:45,3,66365,Male,Web,Member,Home & Furniture,Shoe Rack,124,3,0.3,25.4,2.5,Medium,credit_card
+15-08-2018,15:44:17,9,92129,Male,Web,Member,Home & Furniture,Umbrellas,70,5,0.2,14,1.4,Low,credit_card
+24-07-2018,17:04:30,7,82160,Male,Web,Member,Home & Furniture,Dinner Crockery,133,3,0.2,49,4.9,High,credit_card
+02-11-2018,13:12:25,9,92744,Male,Web,First SignUp,Home & Furniture,Sofa Covers,216,3,0.4,110.1,11,Medium,credit_card
+26-05-2018,13:08:33,6,83322,Male,Web,Member,Home & Furniture,Bed Sheets,211,5,0.3,99.4,9.9,Medium,credit_card
+11-05-2018,17:53:32,5,78611,Male,Web,Member,Home & Furniture,Curtains,34,1,0.2,17,1.7,Medium,money_order
+04-11-2018,12:34:43,9,77371,Male,Web,Member,Home & Furniture,Towels,228,1,0.2,143.4,14.3,Medium,money_order
+03-11-2018,12:30:36,3,67071,Male,Web,Member,Home & Furniture,Sofas,67,1,0.3,33.5,3.4,Medium,credit_card
+01-05-2018,14:18:57,4,93681,Male,Web,Member,Home & Furniture,Beds,78,3,0.2,26,2.6,Medium,credit_card
+11-03-2018,23:20:34,3,76944,Male,Web,Member,Home & Furniture,Dinning Tables,119,5,0.2,33.1,3.3,Medium,money_order
+07-07-2018,19:45:17,3,90571,Male,Web,Member,Home & Furniture,Shoe Rack,124,5,0.3,13,1.3,Medium,credit_card
+16-06-2018,16:38:30,4,81859,Male,Web,Member,Home & Furniture,Umbrellas,70,4,0.3,17.5,1.8,Medium,credit_card
+10-03-2018,12:04:08,5,93390,Male,Web,Member,Home & Furniture,Dinner Crockery,133,5,0.4,26.4,2.6,Medium,credit_card
+16-11-2018,22:35:19,6,75094,Male,Web,Member,Home & Furniture,Sofa Covers,216,1,0.3,123,12.3,Medium,money_order
+24-12-2018,16:03:47,7,71650,Male,Web,Member,Home & Furniture,Bed Sheets,211,5,0.3,78.3,7.8,Medium,e_wallet
+30-12-2018,11:52:02,7,74259,Male,Web,Member,Home & Furniture,Curtains,34,5,0.3,6.8,0.7,Medium,credit_card
+02-12-2018,16:12:57,6,94558,Male,Web,Member,Home & Furniture,Towels,228,1,0.4,138.9,13.9,Low,credit_card
+07-09-2018,18:23:21,8,70242,Male,Web,Member,Home & Furniture,Sofas,67,1,0.2,33.5,3.4,Medium,credit_card
+18-03-2018,09:57:35,6,69108,Male,Web,Member,Home & Furniture,Beds,78,3,0.2,26,2.6,Medium,money_order
+21-05-2018,15:02:45,3,92797,Male,Web,Member,Home & Furniture,Dinning Tables,119,1,0.3,33.1,3.3,Medium,credit_card
+30-07-2018,23:08:26,3,75778,Male,Web,Member,Home & Furniture,Shoe Rack,124,4,0.3,29.1,2.9,Medium,money_order
+24-05-2018,20:18:47,5,84707,Male,Web,Member,Home & Furniture,Umbrellas,70,3,0.2,23.3,2.3,Medium,money_order
+23-02-2018,19:56:00,1,97320,Male,Web,Member,Home & Furniture,Dinner Crockery,133,3,0.2,49,4.9,Medium,money_order
+19-06-2018,11:41:03,5,98696,Male,Web,First SignUp,Home & Furniture,Sofa Covers,216,1,0.3,114.4,11.4,Medium,credit_card
+01-07-2018,11:19:58,2,88634,Male,Web,Member,Home & Furniture,Bed Sheets,211,1,0.2,122.6,12.3,Medium,credit_card
+14-06-2018,16:35:59,7,88338,Male,Web,Member,Home & Furniture,Curtains,34,4,0.2,8.5,0.9,Medium,money_order
+21-06-2018,13:17:24,4,60062,Male,Web,Member,Home & Furniture,Towels,228,4,0.4,111.5,11.2,Low,money_order
+16-07-2018,14:42:15,8,90199,Male,Web,Member,Home & Furniture,Sofas,67,1,0.2,67,6.7,Medium,credit_card
+22-04-2018,16:46:44,1,64849,Male,Web,Member,Home & Furniture,Beds,78,3,0.3,26,2.6,Medium,debit_card
+04-10-2018,09:53:26,2,65344,Male,Web,Member,Home & Furniture,Dinning Tables,119,5,0.2,33.1,3.3,High,money_order
+29-01-2018,17:10:13,9,68550,Male,Web,Member,Home & Furniture,Shoe Rack,124,3,0.4,29.1,2.9,Medium,credit_card
+16-07-2018,16:25:10,10,87494,Male,Web,Member,Home & Furniture,Umbrellas,70,4,0.4,17.5,1.8,Medium,credit_card
+09-01-2018,16:20:02,10,97729,Male,Web,Member,Home & Furniture,Dinner Crockery,133,4,0.4,31.7,3.2,Medium,credit_card
+25-05-2018,18:06:34,6,95153,Male,Web,Member,Home & Furniture,Sofa Covers,216,1,0.3,125.2,12.5,Medium,money_order
+15-11-2018,22:05:09,2,84925,Male,Web,Guest,Home & Furniture,Bed Sheets,211,4,0.2,122.6,12.3,High,credit_card
+10-09-2018,08:42:53,1,76664,Male,Web,Member,Home & Furniture,Curtains,34,4,0.3,8.5,0.9,Medium,credit_card
+15-09-2018,19:26:00,3,74052,Male,Web,Member,Home & Furniture,Towels,228,1,0.2,138.9,13.9,Medium,credit_card
+28-11-2018,09:26:43,1,81813,Male,Web,Guest,Home & Furniture,Sofas,67,1,0.2,67,6.7,Medium,credit_card
+07-07-2018,00:29:18,9,62425,Male,Web,Member,Home & Furniture,Beds,78,3,0.3,26,2.6,Medium,credit_card
+02-09-2018,23:12:09,8,62461,Male,Web,Member,Home & Furniture,Dinning Tables,119,4,0.3,24.7,2.5,Medium,debit_card
+01-01-2018,16:26:43,4,64013,Male,Web,Member,Home & Furniture,Shoe Rack,124,5,0.3,13,1.3,Medium,credit_card
+11-08-2018,12:28:51,2,62446,Female,Mobile,Member,Home & Furniture,Umbrellas,70,1,0.3,35,3.5,Medium,credit_card
+16-09-2018,10:28:25,3,74694,Male,Web,Member,Home & Furniture,Dinner Crockery,133,1,0.2,50.3,5,Medium,money_order
+03-11-2018,09:04:09,1,85671,Male,Web,Member,Home & Furniture,Sofa Covers,216,5,0.2,114.4,11.4,Medium,e_wallet
+24-04-2018,15:42:39,4,86148,Male,Web,Member,Home & Furniture,Bed Sheets,211,1,0.3,120.5,12,High,money_order
+12-05-2018,17:43:50,3,77138,Male,Web,Member,Home & Furniture,Curtains,34,1,0.3,34,3.4,Medium,credit_card
+29-12-2018,15:27:04,7,83979,Male,Web,Member,Home & Furniture,Towels,228,5,0.2,125.2,12.5,Medium,money_order
+20-01-2018,11:21:36,2,70299,Female,Mobile,Member,Home & Furniture,Sofas,67,3,0.2,22.3,2.2,Medium,credit_card
+16-11-2018,11:35:15,9,99108,Male,Web,Member,Home & Furniture,Beds,78,4,0.2,19.5,2,Medium,credit_card
+26-02-2018,11:34:03,8,67958,Male,Web,Member,Home & Furniture,Dinning Tables,119,1,0.3,31.9,3.2,Medium,money_order
+12-11-2018,17:52:19,7,65559,Male,Web,Member,Home & Furniture,Shoe Rack,124,4,0.3,29.1,2.9,High,credit_card
+30-07-2018,22:44:06,8,88131,Male,Web,Member,Home & Furniture,Umbrellas,70,4,0.3,17.5,1.8,Medium,credit_card
+26-10-2018,19:48:15,1,91629,Male,Web,Member,Home & Furniture,Dinner Crockery,133,5,0.2,39.7,4,Medium,credit_card
+23-09-2018,22:54:01,10,78353,Male,Web,Member,Home & Furniture,Sofa Covers,216,5,0.2,114.4,11.4,Medium,credit_card
+19-02-2018,16:02:21,9,75620,Female,Mobile,Member,Home & Furniture,Bed Sheets,211,5,0.2,120.5,12,Medium,credit_card
+22-07-2018,22:19:02,10,87551,Female,Mobile,Member,Home & Furniture,Curtains,34,1,0.2,34,3.4,High,credit_card
+06-09-2018,12:12:14,7,81660,Male,Web,Member,Home & Furniture,Towels,228,3,0.3,127.5,12.7,Medium,money_order
+12-11-2018,06:35:38,7,73385,Male,Web,Member,Home & Furniture,Sofas,67,4,0.2,16.8,1.7,Low,credit_card
+26-11-2018,11:46:08,5,73715,Male,Web,Member,Home & Furniture,Beds,78,5,0.3,15.6,1.6,Medium,credit_card
+26-09-2018,15:11:10,8,70387,Male,Web,Member,Home & Furniture,Dinning Tables,119,1,0.3,27.1,2.7,Medium,credit_card
+17-04-2018,10:25:09,8,95336,Male,Web,Member,Home & Furniture,Shoe Rack,124,5,0.2,37.8,3.8,Medium,credit_card
+28-05-2018,23:36:23,8,84861,Male,Web,Member,Home & Furniture,Umbrellas,70,1,0.2,70,7,Medium,credit_card
+10-06-2018,14:24:28,5,86084,Female,Mobile,First SignUp,Home & Furniture,Dinner Crockery,133,1,0.2,50.3,5,Medium,credit_card
+25-03-2018,17:49:12,2,93772,Male,Web,Member,Home & Furniture,Sofa Covers,216,5,0.3,103.6,10.4,Medium,credit_card
+16-04-2018,19:27:48,9,60224,Male,Web,Member,Home & Furniture,Bed Sheets,211,4,0.3,88.8,8.9,Medium,credit_card
+21-02-2018,11:36:36,5,96417,Male,Web,Member,Home & Furniture,Curtains,34,1,0.3,17,1.7,High,credit_card
+15-07-2018,19:02:17,8,89293,Male,Web,Member,Home & Furniture,Towels,228,4,0.4,111.5,11.2,Medium,credit_card
+30-07-2018,22:30:22,8,96770,Male,Web,Member,Home & Furniture,Sofas,67,1,0.3,33.5,3.4,Medium,credit_card
+12-01-2018,18:58:54,8,80451,Male,Web,Member,Home & Furniture,Beds,78,3,0.2,26,2.6,Medium,credit_card
+18-11-2018,18:13:22,4,72624,Female,Mobile,Member,Home & Furniture,Dinning Tables,119,5,0.2,33.1,3.3,High,credit_card
+08-08-2018,13:05:17,7,95626,Male,Web,Member,Home & Furniture,Shoe Rack,124,1,0.2,41.5,4.2,Medium,e_wallet
+16-06-2018,12:07:53,4,79841,Male,Web,Member,Home & Furniture,Umbrellas,70,1,0.3,35,3.5,Medium,credit_card
+18-10-2018,10:25:29,4,80698,Male,Web,Member,Home & Furniture,Dinner Crockery,133,3,0.2,49,4.9,Medium,credit_card
+16-11-2018,10:50:18,5,94072,Male,Web,Member,Home & Furniture,Sofa Covers,216,3,0.3,103.6,10.4,Medium,credit_card
+14-09-2018,19:05:15,10,87363,Male,Web,Member,Home & Furniture,Bed Sheets,211,4,0.2,122.6,12.3,Medium,credit_card
+25-09-2018,22:00:31,3,86355,Male,Web,Member,Home & Furniture,Curtains,34,1,0.4,34,3.4,Medium,credit_card
+17-07-2018,11:57:27,7,67923,Male,Web,Member,Home & Furniture,Towels,228,1,0.2,138.9,13.9,Medium,credit_card
+15-06-2018,17:58:42,4,73614,Male,Web,Member,Home & Furniture,Sofas,67,1,0.4,67,6.7,High,credit_card
+21-08-2018,22:06:26,2,70828,Male,Web,Member,Home & Furniture,Beds,78,4,0.4,19.5,2,Medium,credit_card
+17-11-2018,10:34:57,10,99779,Male,Web,Member,Home & Furniture,Dinning Tables,119,5,0.2,33.1,3.3,Medium,credit_card
+04-09-2018,19:28:46,4,73447,Male,Web,Member,Home & Furniture,Shoe Rack,124,3,0.3,32.8,3.3,Medium,credit_card
+11-05-2018,00:36:48,4,77486,Male,Web,Member,Home & Furniture,Umbrellas,70,1,0.3,35,3.5,Medium,credit_card
+02-12-2018,10:32:50,6,72495,Male,Web,Member,Home & Furniture,Dinner Crockery,133,1,0.3,39.7,4,Medium,credit_card
+06-09-2018,09:10:35,2,78847,Male,Web,Member,Home & Furniture,Sofa Covers,216,1,0.3,114.4,11.4,High,money_order
+30-06-2018,18:31:03,7,91834,Male,Web,Member,Home & Furniture,Bed Sheets,211,3,0.3,112,11.2,Medium,money_order
+03-05-2018,23:06:57,2,68461,Male,Web,Member,Home & Furniture,Curtains,34,1,0.2,17,1.7,High,credit_card
+18-09-2018,18:49:22,3,77849,Male,Web,Member,Home & Furniture,Towels,228,3,0.4,120.6,12.1,High,credit_card
+05-08-2018,14:28:30,4,61775,Male,Web,Member,Home & Furniture,Sofas,67,1,0.2,67,6.7,Medium,credit_card
+13-12-2018,20:57:37,2,74564,Male,Web,Member,Home & Furniture,Beds,78,1,0.2,39,3.9,Medium,credit_card
+24-10-2018,14:32:17,10,69092,Male,Web,Member,Home & Furniture,Dinning Tables,119,4,0.3,24.7,2.5,Medium,credit_card
+12-11-2018,09:04:36,6,99698,Male,Web,Member,Home & Furniture,Shoe Rack,124,3,0.3,32.8,3.3,Medium,credit_card
+01-02-2018,10:07:32,10,74401,Female,Mobile,First SignUp,Home & Furniture,Umbrellas,70,1,0.2,35,3.5,Medium,credit_card
+03-10-2018,22:06:22,7,63342,Male,Web,Member,Home & Furniture,Dinner Crockery,133,1,0.3,45,4.5,Medium,credit_card
+21-07-2018,18:33:45,1,82362,Male,Web,Member,Home & Furniture,Sofa Covers,216,1,0.3,125.2,12.5,Medium,credit_card
+16-11-2018,17:40:32,4,76322,Male,Web,Member,Home & Furniture,Bed Sheets,211,1,0.2,128.9,12.9,High,credit_card
+13-04-2018,23:15:05,9,62095,Male,Web,Member,Home & Furniture,Curtains,34,4,0.3,8.5,0.9,Medium,credit_card
+02-09-2018,23:28:43,9,65749,Male,Web,Member,Home & Furniture,Towels,228,5,0.4,102.4,10.2,Medium,money_order
+20-01-2018,19:46:35,5,88032,Male,Web,Member,Home & Furniture,Sofas,67,5,0.3,13.4,1.3,Medium,credit_card
+19-08-2018,11:58:03,4,80907,Male,Web,Member,Home & Furniture,Beds,78,5,0.2,15.6,1.6,Medium,e_wallet
+23-01-2018,09:53:39,9,82420,Male,Web,Member,Home & Furniture,Dinning Tables,119,1,0.2,36.6,3.7,Medium,money_order
+05-03-2018,19:04:41,3,81279,Male,Web,Member,Home & Furniture,Shoe Rack,124,1,0.3,36.6,3.7,Medium,credit_card
+09-03-2018,23:02:28,1,79976,Female,Mobile,First SignUp,Home & Furniture,Umbrellas,70,1,0.3,70,7,Medium,credit_card
+21-05-2018,17:34:32,7,86463,Male,Web,Member,Home & Furniture,Dinner Crockery,133,1,0.2,51.7,5.2,Medium,credit_card
+09-10-2018,21:19:00,3,69129,Male,Web,Member,Home & Furniture,Sofa Covers,216,1,0.4,127.4,12.7,Medium,credit_card
+22-12-2018,23:39:13,3,87767,Male,Web,Member,Home & Furniture,Bed Sheets,211,1,0.3,124.7,12.5,Medium,credit_card
+05-08-2018,19:14:46,6,67656,Male,Web,Member,Home & Furniture,Curtains,34,1,0.4,17,1.7,Medium,credit_card
+05-05-2018,20:29:23,5,92629,Male,Web,Member,Home & Furniture,Towels,228,5,0.3,113.8,11.4,High,money_order
+06-11-2018,09:40:02,8,98106,Male,Web,Member,Home & Furniture,Sofas,67,1,0.3,33.5,3.4,Medium,money_order
+27-04-2018,14:09:49,2,70932,Male,Web,Member,Home & Furniture,Beds,78,5,0.2,15.6,1.6,Medium,credit_card
+13-09-2018,17:43:48,10,69167,Male,Web,Member,Home & Furniture,Dinning Tables,119,1,0.2,36.6,3.7,Medium,credit_card
+05-07-2018,08:54:10,2,71690,Male,Web,Member,Home & Furniture,Shoe Rack,124,5,0.3,25.4,2.5,Medium,credit_card
+19-11-2018,15:38:30,9,87079,Male,Web,Member,Home & Furniture,Umbrellas,70,4,0.3,17.5,1.8,Medium,money_order
+16-10-2018,11:58:28,9,84765,Male,Web,Member,Home & Furniture,Dinner Crockery,133,4,0.2,42.4,4.2,Medium,credit_card
+27-04-2018,17:41:25,9,94155,Male,Web,Member,Home & Furniture,Sofa Covers,216,4,0.3,110.1,11,High,credit_card
+19-11-2018,12:03:34,8,94221,Male,Web,Member,Home & Furniture,Bed Sheets,211,3,0.4,105.7,10.6,Medium,credit_card
+22-03-2018,17:30:58,5,78445,Male,Web,Member,Home & Furniture,Curtains,34,1,0.3,34,3.4,Medium,credit_card
+08-09-2018,12:39:20,8,67391,Male,Web,Member,Home & Furniture,Towels,228,3,0.3,113.8,11.4,Medium,money_order
+27-09-2018,12:37:10,4,75135,Female,Mobile,Member,Home & Furniture,Sofas,67,1,0.3,33.5,3.4,Medium,credit_card
+30-06-2018,21:45:40,9,99344,Male,Web,Member,Home & Furniture,Beds,78,3,0.2,26,2.6,Medium,credit_card
+12-09-2018,17:12:18,4,62896,Male,Web,Member,Home & Furniture,Dinning Tables,119,3,0.4,24.7,2.5,Medium,credit_card
+18-03-2018,19:41:02,3,82074,Male,Web,Member,Home & Furniture,Shoe Rack,124,5,0.2,37.8,3.8,Medium,credit_card
+03-08-2018,16:13:58,7,92758,Male,Web,Member,Home & Furniture,Umbrellas,70,1,0.2,70,7,Medium,money_order
+04-02-2018,14:25:41,2,63104,Male,Web,Member,Home & Furniture,Dinner Crockery,133,1,0.3,49,4.9,Medium,credit_card
+30-07-2018,11:41:02,1,66849,Male,Web,Member,Home & Furniture,Sofa Covers,216,4,0.3,92.8,9.3,High,credit_card
+22-11-2018,13:54:36,3,79500,Male,Web,Member,Home & Furniture,Bed Sheets,211,1,0.3,124.7,12.5,Medium,credit_card
+17-09-2018,21:25:46,10,62652,Male,Web,Member,Home & Furniture,Curtains,34,1,0.4,34,3.4,Low,credit_card
+26-02-2018,20:48:50,9,72885,Male,Web,Member,Home & Furniture,Towels,228,1,0.4,129.8,13,Medium,credit_card
+06-10-2018,11:47:08,10,62719,Male,Web,Member,Home & Furniture,Sofas,67,5,0.4,13.4,1.3,Medium,money_order
+03-07-2018,16:19:41,1,75548,Male,Web,Member,Home & Furniture,Beds,78,4,0.3,19.5,2,Medium,credit_card
+07-06-2018,14:12:28,7,67850,Male,Web,Member,Home & Furniture,Dinning Tables,119,3,0.2,31.9,3.2,Medium,money_order
+04-11-2018,19:54:42,1,88585,Male,Web,Member,Home & Furniture,Shoe Rack,124,1,0.3,37.8,3.8,High,credit_card
+16-03-2018,05:13:04,6,64079,Male,Web,Member,Home & Furniture,Umbrellas,70,5,0.3,14,1.4,Medium,credit_card
+23-06-2018,18:47:44,5,60623,Male,Web,Member,Home & Furniture,Dinner Crockery,133,3,0.2,45,4.5,High,credit_card
+16-11-2018,18:52:14,8,75838,Male,Web,Member,Home & Furniture,Sofa Covers,216,5,0.2,114.4,11.4,Medium,credit_card
+07-10-2018,18:05:05,8,99142,Male,Web,Member,Home & Furniture,Bed Sheets,211,5,0.2,120.5,12,Medium,credit_card
+17-05-2018,14:43:00,1,69648,Male,Web,Member,Home & Furniture,Curtains,34,1,0.3,34,3.4,Medium,money_order
+21-02-2018,12:33:46,10,81744,Male,Web,Member,Home & Furniture,Towels,228,1,0.2,145.7,14.6,Medium,money_order
+20-02-2018,09:42:07,5,79180,Male,Web,Member,Home & Furniture,Sofas,67,4,0.3,16.8,1.7,Medium,credit_card
+24-09-2018,16:00:09,1,89335,Male,Web,Member,Home & Furniture,Beds,78,4,0.3,19.5,2,Medium,money_order
+03-10-2018,10:59:14,5,61837,Male,Web,Member,Home & Furniture,Dinning Tables,119,1,0.3,33.1,3.3,Medium,credit_card
+10-10-2018,11:23:01,5,69308,Female,Mobile,Member,Home & Furniture,Shoe Rack,124,1,0.2,39,3.9,Low,credit_card
+19-12-2018,19:10:23,4,87167,Female,Mobile,Member,Home & Furniture,Umbrellas,70,1,0.3,35,3.5,Medium,credit_card
+11-11-2018,21:44:31,9,64716,Male,Web,Member,Home & Furniture,Dinner Crockery,133,1,0.4,47.7,4.8,Medium,e_wallet
+24-09-2018,16:52:07,1,71598,Female,Mobile,Member,Home & Furniture,Sofa Covers,216,5,0.2,125.2,12.5,Medium,credit_card
+07-07-2018,14:16:25,7,85855,Male,Web,Member,Home & Furniture,Bed Sheets,211,4,0.2,122.6,12.3,Medium,money_order
+23-07-2018,22:27:49,4,85567,Male,Web,Member,Home & Furniture,Curtains,34,3,0.2,11.3,1.1,Medium,credit_card
+12-05-2018,18:50:17,2,76461,Male,Web,Member,Home & Furniture,Towels,228,3,0.3,127.5,12.7,Medium,money_order
+21-02-2018,22:22:31,4,84067,Male,Web,Member,Home & Furniture,Sofas,67,1,0.2,33.5,3.4,Medium,credit_card
+14-03-2018,11:20:31,10,97897,Male,Web,Member,Home & Furniture,Beds,78,1,0.2,39,3.9,Medium,money_order
+19-07-2018,10:27:39,5,78768,Male,Web,First SignUp,Home & Furniture,Dinning Tables,119,1,0.3,27.1,2.7,Medium,e_wallet
+26-06-2018,18:16:24,10,69382,Male,Web,Member,Home & Furniture,Shoe Rack,124,4,0.2,39,3.9,High,credit_card
+13-12-2018,07:54:40,9,97934,Male,Web,Member,Home & Furniture,Umbrellas,70,5,0.4,14,1.4,Medium,credit_card
+03-12-2018,14:21:58,3,91763,Male,Web,Member,Home & Furniture,Dinner Crockery,133,5,0.3,33.1,3.3,High,money_order
+05-10-2018,12:20:45,2,66676,Male,Web,Member,Home & Furniture,Sofa Covers,216,1,0.3,125.2,12.5,Medium,money_order
+12-02-2018,13:59:35,4,63312,Male,Web,Member,Home & Furniture,Bed Sheets,211,4,0.3,88.8,8.9,Medium,money_order
+24-04-2018,21:35:46,9,99446,Male,Web,Member,Home & Furniture,Curtains,34,1,0.3,34,3.4,Medium,credit_card
+23-12-2018,16:40:59,7,83678,Male,Web,Member,Home & Furniture,Towels,228,4,0.4,111.5,11.2,Low,credit_card
+21-07-2018,08:42:03,9,98720,Male,Web,Member,Home & Furniture,Sofas,67,1,0.3,33.5,3.4,Medium,credit_card
+28-08-2018,16:27:24,9,66244,Male,Web,Member,Home & Furniture,Beds,78,1,0.2,78,7.8,Medium,debit_card
+18-11-2018,22:30:29,5,64021,Male,Web,Member,Home & Furniture,Dinning Tables,119,1,0.2,37.8,3.8,High,credit_card
+06-09-2018,21:36:54,1,99260,Male,Web,Member,Home & Furniture,Shoe Rack,124,1,0.2,41.5,4.2,Medium,money_order
+21-11-2018,01:06:28,2,65344,Male,Web,Member,Home & Furniture,Umbrellas,70,1,0.4,35,3.5,Medium,debit_card
+30-07-2018,19:00:14,10,66385,Male,Web,Member,Home & Furniture,Dinner Crockery,133,5,0.2,39.7,4,High,money_order
+21-11-2018,12:27:20,3,62776,Male,Web,Member,Home & Furniture,Sofa Covers,216,1,0.4,127.4,12.7,Medium,credit_card
+23-09-2018,01:41:29,10,98485,Male,Web,Member,Home & Furniture,Bed Sheets,211,4,0.3,88.8,8.9,Medium,credit_card
+11-06-2018,19:35:01,5,61282,Male,Web,Member,Home & Furniture,Curtains,34,3,0.4,11.3,1.1,Medium,credit_card
+20-09-2018,10:21:38,5,62503,Male,Web,Member,Home & Furniture,Towels,228,5,0.4,102.4,10.2,Medium,credit_card
+23-09-2018,17:32:07,1,63172,Male,Web,Member,Home & Furniture,Sofas,67,4,0.2,16.8,1.7,Medium,credit_card
+01-04-2018,15:55:42,5,92788,Male,Web,Guest,Home & Furniture,Beds,78,1,0.3,39,3.9,Medium,credit_card
+03-04-2018,21:12:11,1,90798,Male,Web,Member,Home & Furniture,Dinning Tables,119,1,0.2,37.8,3.8,Medium,money_order
+24-07-2018,09:46:25,9,93457,Male,Web,Member,Home & Furniture,Shoe Rack,124,1,0.3,37.8,3.8,Medium,money_order
+30-12-2018,15:06:46,5,62596,Male,Web,Member,Home & Furniture,Umbrellas,70,1,0.2,35,3.5,Medium,money_order
+01-05-2018,11:55:52,9,75114,Male,Web,Member,Home & Furniture,Dinner Crockery,133,4,0.3,26.4,2.6,Medium,credit_card
+09-05-2018,14:47:10,8,60935,Male,Web,Member,Home & Furniture,Sofa Covers,216,3,0.2,123,12.3,Medium,credit_card
+24-05-2018,18:51:32,8,90489,Male,Web,Member,Home & Furniture,Bed Sheets,211,3,0.3,112,11.2,High,money_order
+24-04-2018,19:30:03,2,60413,Male,Web,Member,Home & Furniture,Curtains,34,3,0.3,11.3,1.1,Medium,credit_card
+10-05-2018,16:19:55,8,62497,Male,Web,Member,Home & Furniture,Towels,228,1,0.4,138.9,13.9,Medium,money_order
+19-04-2018,19:01:48,6,78997,Male,Web,Guest,Home & Furniture,Sofas,67,1,0.4,67,6.7,Medium,credit_card
+28-04-2018,14:43:10,4,78920,Male,Web,Member,Home & Furniture,Beds,78,1,0.3,78,7.8,Low,credit_card
+20-11-2018,13:28:21,1,75863,Male,Web,Member,Home & Furniture,Dinning Tables,119,4,0.3,15.2,1.5,Medium,credit_card
+29-07-2018,19:30:58,9,65443,Male,Web,Member,Home & Furniture,Shoe Rack,124,1,0.3,36.6,3.7,Medium,money_order
+16-08-2018,15:56:11,6,76999,Male,Web,Member,Home & Furniture,Umbrellas,70,3,0.4,23.3,2.3,Medium,credit_card
+06-04-2018,14:25:23,8,66453,Male,Web,Member,Home & Furniture,Dinner Crockery,133,1,0.4,47.7,4.8,Medium,credit_card
+30-07-2018,23:18:31,7,62608,Male,Web,Member,Home & Furniture,Sofa Covers,216,4,0.3,92.8,9.3,Medium,money_order
+12-04-2018,08:58:30,5,87914,Male,Web,Member,Home & Furniture,Bed Sheets,211,1,0.3,120.5,12,Medium,money_order
+14-05-2018,10:03:32,8,70690,Male,Web,Member,Home & Furniture,Curtains,34,1,0.4,34,3.4,Medium,credit_card
+08-04-2018,18:39:08,10,75585,Male,Web,Member,Home & Furniture,Towels,228,5,0.2,136.6,13.7,Medium,credit_card
+23-01-2018,17:07:56,8,88650,Male,Web,Member,Home & Furniture,Sofas,67,5,0.2,13.4,1.3,Medium,credit_card
+04-09-2018,19:07:44,9,65053,Male,Web,Member,Home & Furniture,Beds,78,5,0.2,15.6,1.6,Medium,credit_card
+27-03-2018,13:17:00,3,62022,Male,Web,Member,Home & Furniture,Dinning Tables,119,1,0.4,34.2,3.4,Medium,e_wallet
+27-04-2018,23:17:35,7,80773,Male,Web,Member,Home & Furniture,Shoe Rack,124,5,0.2,37.8,3.8,Medium,e_wallet
+03-12-2018,21:06:41,10,63524,Male,Web,Member,Home & Furniture,Umbrellas,70,3,0.4,23.3,2.3,Medium,credit_card
+15-10-2018,16:55:27,5,88849,Male,Web,Member,Home & Furniture,Dinner Crockery,133,3,0.4,37,3.7,Medium,credit_card
+11-11-2018,14:59:32,10,69719,Male,Web,Member,Home & Furniture,Sofa Covers,216,5,0.2,125.2,12.5,Medium,credit_card
